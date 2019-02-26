@@ -25,8 +25,10 @@ In both the Arxiv and IMDB dataset, the ratio of
 the test set to that of training set as 0.6
 
 
-#### Dataset Statistics
-![Dataset Statisitcs](img/dataset_statisitcs.png)
+### Dataset Statistics
+![dataset_stat](img/dataset_statistics.svg)
+
+￼
 
 
 ## Citation
