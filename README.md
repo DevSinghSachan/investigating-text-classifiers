@@ -24,6 +24,11 @@ abstract of each paper. This dataset can be obtained here: [URL](https://drive.g
 In both the Arxiv and IMDB dataset, the ratio of
 the test set to that of training set as 0.6
 
+
+#### Dataset Statistics
+![Dataset Statisitcs](img/dataset_statisitcs.png)
+
+
 ## Citation
 If you find the data or code useful, please consider citing our paper as:
 ```
