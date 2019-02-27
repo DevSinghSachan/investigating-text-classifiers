@@ -1,0 +1,150 @@
+motion planning	415	3.89088040538
+path planning	210	3.28398381056
+mobile robots	209	3.25508645028
+multi robot	124	3.21642765575
+sampling based	345	3.14823495951
+mobile robot	143	3.14747350257
+human robot	131	3.02661147917
+humanoid robot	88	2.93066704438
+reinforcement learning	1523	2.7850712801
+robotic systems	88	2.66693757324
+deep learning	2127	2.66084119735
+collision avoidance	193	2.6265658521
+manipulation tasks	64	2.61780771465
+temporal logic	666	2.59561099971
+based motion	65	2.5226218149
+robot control	55	2.43660389438
+aerial vehicles	132	2.41679565118
+planning algorithms	80	2.41524867472
+robot interaction	68	2.40393862861
+collision free	183	2.37601667274
+optimal control	3764	2.36163184072
+real robot	43	2.34953737395
+unmanned aerial	146	2.32989309392
+dynamic environments	134	2.29997200907
+human robot interaction	61	2.28981876882
+planning algorithm	79	2.27853991051
+inverse dynamics	43	2.27732298597
+robot motion	54	2.27514649364
+planning problems	121	2.25205268655
+humanoid robots	45	2.25075229076
+aerial vehicle	63	2.23223073655
+trajectory planning	51	2.21640499664
+place recognition	48	2.19850898778
+bayesian optimization	334	2.18886779119
+point cloud	218	2.18436599081
+convolutional neural	2422	2.17661705915
+proposed approach	2392	2.1729257736
+cost function	1291	2.1670595196
+planning problem	158	2.15460437035
+joint space	59	2.14852079151
+model predictive	448	2.12282300166
+receding horizon	124	2.12059539434
+autonomous vehicles	103	2.11943628445
+low cost	843	2.11120401293
+obstacle avoidance	58	2.10354843524
+markov decision	904	2.09725737922
+simultaneous localization	58	2.09489315702
+neural network	4447	2.09076263526
+vision based	100	2.0891220459
+asymptotically optimal	892	2.08417874901
+point clouds	189	2.06845732319
+high level	2343	2.06548561141
+multi agent	1157	2.06524341259
+pose estimation	504	2.06430053008
+autonomous robots	52	2.06210073303
+kalman filter	767	2.04965913683
+domain specific	512	2.04215693599
+markov decision process	346	2.02560766712
+particle filter	379	2.01905149641
+optimization problem	3820	2.00814890652
+specific language	137	1.98907785205
+trajectory optimization	70	1.98635300488
+based algorithms	521	1.97926519481
+deep reinforcement learning	206	1.97673252315
+deep reinforcement	207	1.97673252315
+decision process	443	1.97438097545
+domain specific language	114	1.96941559806
+control strategy	269	1.9640962596
+optical flow	407	1.95708997849
+partially observable	250	1.95137793825
+control policy	221	1.95105139211
+unmanned aerial vehicles	100	1.94209075951
+rigid body	842	1.93704983289
+optimal path	173	1.92310425299
+success rate	357	1.91658180718
+trajectory tracking	77	1.8994327234
+object detection	845	1.89513106053
+control law	293	1.89146252016
+natural language	1672	1.88397118718
+linear temporal logic	148	1.87946607358
+extended kalman	137	1.87760529864
+computer vision	1459	1.87152136761
+control policies	213	1.86577077857
+control framework	122	1.86479838351
+state estimation	682	1.86328786923
+gaussian process	1563	1.86214454476
+human motion	111	1.85928958589
+control approach	139	1.8561151785
+policy search	107	1.8557063695
+predictive control	389	1.8430443413
+open source	1614	1.8411934478
+multi modal	363	1.82983988954
+object recognition	475	1.82443343338
+convolutional neural network	967	1.81721557965
+motion capture	129	1.81592471374
+linear temporal	168	1.81507293216
+inverted pendulum	78	1.81315444641
+extended kalman filter	121	1.81116085712
+bio inspired	105	1.80797424549
+world experiments	49	1.80377854362
+proposed algorithm	2485	1.79883857791
+mixed integer	543	1.79679265191
+contact forces	161	1.79299491621
+complex tasks	69	1.78443053856
+loop closure	55	1.7753643486
+control problem	1567	1.76900843142
+information gathering	57	1.76831503632
+real world experiments	47	1.7669676575
+feedback control	1040	1.76694945898
+technical report	295	1.76078327089
+sensor fusion	46	1.75891896916
+model predictive control	353	1.75546049364
+configuration spaces	597	1.75295716498
+3d point	74	1.75166056876
+control problems	1297	1.74661781949
+ground truth	713	1.74654629623
+state space	3761	1.74612812274
+deep neural	1482	1.74602098109
+convolutional neural networks	1405	1.74459514501
+control algorithms	162	1.73955722801
+learning based	595	1.73671526153
+optimal solution	1603	1.72937667426
+control loop	77	1.72549765782
+dynamic programming	1226	1.72516653571
+asymptotic optimality	216	1.72514995432
+configuration space	2243	1.71879796754
+based control	177	1.71381569203
+sensor data	237	1.71038223609
+paper proposes	1839	1.70487700009
+proposed framework	792	1.70406706996
+autonomous systems	212	1.70291010242
+training data	1333	1.70062025921
+learning algorithm	1153	1.70031174559
+time optimal	370	1.69551311737
+observable markov decision	131	1.69215819498
+partially observable markov decision	127	1.69215819498
+partially observable markov	132	1.69083916142
+optimal trajectory	66	1.69003946156
+observable markov	138	1.68997676416
+data fusion	191	1.68449111777
+unknown environment	48	1.67768243302
+collision detection	104	1.67342549699
+model driven	252	1.67096357584
+inverse reinforcement learning	69	1.66366454987
+inverse reinforcement	69	1.66366454987
+control architecture	72	1.65641438035
+interval analysis	52	1.65146255614
+reward function	122	1.64973502864
+optimization based	293	1.64799072513
+data driven	1528	1.64700739003

@@ -1,0 +1,150 @@
+gene expression	1343	3.45177064804
+biological systems	785	2.71372314362
+expression data	387	2.64394619218
+systems biology	248	2.56140964833
+regulatory networks	416	2.52922353319
+high throughput	847	2.51875965258
+gene expression data	304	2.4692495423
+gene regulatory	346	2.3939033521
+protein structure	228	2.28263847779
+single cell	411	2.2566143975
+biological networks	380	2.17192799621
+chemical master	105	2.16516890673
+amino acid	433	2.15525038211
+genome wide	358	2.15500322416
+reaction networks	519	2.12521344504
+chemical master equation	98	2.12510821591
+rna seq	199	2.12134938521
+single molecule	1516	2.12091198176
+mathematical model	1251	2.09320310727
+mass spectrometry	271	2.08566320317
+microarray data	189	2.05597346147
+heart rate	155	2.02793733348
+hidden markov	1048	2.02698356973
+gene regulatory networks	204	2.01737557711
+sequence alignment	144	2.01721777324
+stochastic simulation	201	2.00859172476
+copy number	164	2.00053481089
+markov model	579	1.99969790322
+multiple sequence	87	1.97793738749
+biological processes	267	1.96864077906
+cell types	118	1.95354053817
+secondary structure	272	1.94464149327
+markov models	709	1.92114374171
+simulated data	1365	1.91807628958
+phylogenetic tree	212	1.91479191631
+escherichia coli	167	1.91241561218
+biochemical systems	76	1.91031821768
+protein protein	269	1.90945779872
+cell cycle	221	1.90225823594
+mutual information	2595	1.89617188787
+sequence data	219	1.89338601833
+rna secondary	161	1.88063085773
+persistent homology	393	1.88044639976
+biological data	126	1.8789181904
+dynamic programming	1226	1.87590849185
+time series data	606	1.86882627521
+series data	617	1.86738057646
+parameter estimation	2355	1.86627871626
+regulatory network	180	1.8656182001
+computational biology	202	1.85374767495
+breast cancer	205	1.85184819472
+mathematical models	586	1.85022873385
+throughput sequencing	73	1.8455937077
+high throughput sequencing	73	1.8455937077
+gene regulation	161	1.84365772601
+open source	1614	1.83763502422
+multiple sequence alignment	57	1.83423222334
+dna methylation	71	1.83355802396
+expression levels	149	1.82802201387
+dna sequences	289	1.82448798558
+signal transduction	125	1.82340821548
+association studies	226	1.81603146206
+protein sequence	70	1.80753392488
+rule based	372	1.80214370047
+protein sequences	103	1.79921942523
+inference methods	246	1.79737058463
+genetic code	156	1.79327267603
+genetic regulatory	91	1.78856832486
+gene sets	64	1.78338973258
+protein structures	153	1.78077961365
+stochastic simulations	225	1.78050067096
+protein interaction	255	1.77810523675
+boolean networks	368	1.77391165911
+transcription factor	184	1.77035199773
+chemical reaction	717	1.76962432328
+gene set	72	1.7694825287
+expression profiles	83	1.76904274438
+protein ligand	48	1.75634880414
+mass action	264	1.7558939867
+tumor growth	144	1.74406950971
+complex biological	84	1.74206497775
+biochemical reaction	108	1.74168927344
+phylogenetic trees	388	1.73884883029
+genetic regulatory networks	64	1.73516667146
+dna replication	62	1.73322206148
+transcription factors	189	1.73156435695
+secondary structures	234	1.729034178
+michaelis menten	134	1.72485538764
+maximum likelihood	4565	1.72467684499
+small molecules	173	1.72275821023
+support vector	950	1.71873599691
+ligand binding	83	1.71659269641
+stochastic chemical	89	1.70839912174
+case control	160	1.70168512174
+neighbor joining	51	1.7012869553
+animal movement	60	1.69759350489
+molecular biology	136	1.69621194887
+signaling pathways	49	1.69244231563
+biologically relevant	159	1.68589224682
+cancer cells	92	1.67586228213
+real data	2617	1.67513565821
+linear noise	87	1.67511658583
+steady states	1662	1.67454279019
+rna secondary structures	106	1.67447563428
+heart rate variability	60	1.67045199053
+data driven	1528	1.66940921466
+generation sequencing	100	1.66903916184
+amino acids	376	1.66586729891
+stochastic reaction	141	1.6657985018
+gene expression profiles	46	1.66503348415
+chemical systems	124	1.6628464443
+deep learning	2127	1.65871539188
+granger causality	178	1.65730586621
+sequencing data	128	1.65471049633
+markov chain	4855	1.6532584
+cell populations	80	1.65046160231
+mathematical modeling	171	1.65040613981
+electron microscopy	841	1.64854263733
+biologically meaningful	45	1.64599979111
+network inference	133	1.6458704964
+cellular structures	62	1.64519962678
+cell lines	63	1.64327122198
+brain networks	225	1.64193669607
+seq data	97	1.63998166317
+infectious disease	176	1.63855930544
+model selection	2055	1.63851714498
+brain regions	166	1.633211346
+sample size	2109	1.63309446143
+infectious diseases	178	1.63154961541
+structure prediction	190	1.6209323161
+hidden markov model	315	1.61586948276
+experimental design	340	1.61548662304
+biochemical networks	120	1.61342086388
+agent based	594	1.61329906239
+gene regulatory network	70	1.61070453453
+neural network	4447	1.61028830016
+feature selection	818	1.60929005241
+rna seq data	81	1.60240397456
+biochemical reaction networks	73	1.60213919425
+network structure	1223	1.60176730276
+stochastic models	616	1.59779583663
+copy numbers	56	1.59529504659
+rate variability	88	1.59388953598
+wide association	174	1.59299267864
+parameter inference	153	1.59289748488
+prediction accuracy	324	1.58869958606
+rate constants	259	1.58510567965
+hidden markov models	494	1.58356920806
+gene tree	86	1.58139159045
+binding affinity	58	1.57992645767

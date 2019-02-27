@@ -1,0 +1,150 @@
+finite element	4267	5.42044165983
+element method	1806	4.86179962451
+finite element method	1309	4.84236443517
+discontinuous galerkin	930	4.82128790565
+numerical experiments	3745	4.76377111691
+error estimates	1413	4.56207138979
+numerical examples	2458	4.37506072395
+posteriori error	444	4.29492790513
+element methods	596	4.27501621282
+finite element methods	497	4.22801508713
+finite elements	631	4.20085835112
+low rank	3069	4.1070978065
+linear systems	1998	4.03720420525
+high order	4087	3.99866706024
+time step	1706	3.94165559912
+galerkin method	504	3.94076127227
+mixed finite	286	3.90961942549
+partial differential equations	3633	3.90142557899
+runge kutta	772	3.89824572769
+error analysis	737	3.88528764367
+finite difference	2089	3.8796926786
+error bounds	993	3.83695395847
+fully discrete	330	3.83639109487
+convergence rates	1313	3.83322850801
+numerical scheme	969	3.8311575822
+stokes equations	3238	3.79102916263
+domain decomposition	491	3.7902327399
+galerkin methods	264	3.77334790454
+time stepping	420	3.77234150216
+eigenvalue problems	557	3.70848457828
+condition number	527	3.67222786408
+numerical solution	2083	3.64624887069
+convergence analysis	580	3.64121414152
+mixed finite element	214	3.64027401275
+boundary integral	448	3.63441223786
+optimal order	282	3.63366859355
+convection diffusion	345	3.63262881932
+convergence rate	2083	3.6268839877
+elliptic problems	446	3.60477357139
+numerical schemes	500	3.60473528652
+priori error	208	3.59026324616
+optimal convergence	333	3.58038879904
+kutta methods	222	3.57786800094
+runge kutta methods	222	3.57786800094
+error estimate	479	3.57424119731
+discontinuous galerkin method	226	3.56360572933
+navier stokes equations	3007	3.54617746103
+galerkin finite element	206	3.54039635263
+galerkin finite	219	3.53728977363
+finite element approximation	188	3.51527062612
+numerical approximation	433	3.51060325001
+newton method	624	3.50861010759
+finite volume	3198	3.4927249331
+element approximation	199	3.48176323796
+basis functions	1392	3.46842213775
+diffusion problems	214	3.44313032028
+reduced basis	219	3.43100321795
+stochastic differential	3333	3.42977419723
+ill posed	837	3.42882893543
+petrov galerkin	162	3.41648912466
+krylov subspace	319	3.3893144613
+mesh size	298	3.38026172102
+model reduction	451	3.37979851822
+helmholtz equation	544	3.37913640798
+computational cost	2040	3.37145531962
+radial basis	291	3.37075823137
+discontinuous galerkin methods	171	3.36160713126
+optimal error	248	3.35092860829
+semi discrete	344	3.34750448742
+order accurate	396	3.34465253955
+stochastic differential equations	2127	3.33057730662
+element approximations	144	3.32787544333
+posteriori error estimates	134	3.31911018977
+inverse problems	1309	3.31763120659
+numerical method	1781	3.31733228221
+iterative methods	361	3.3092958305
+condition numbers	173	3.30621697733
+order elliptic	565	3.30378113276
+finite element approximations	141	3.29954830743
+quasi monte	257	3.29497467152
+order convergence	246	3.29473738791
+quasi monte carlo	256	3.28717810146
+boundary element	300	3.28465541403
+numerical methods	2126	3.28367870153
+element spaces	126	3.26692389211
+error estimator	171	3.26448446284
+linear elasticity	318	3.25672414904
+semi lagrangian	178	3.24350424352
+finite element spaces	122	3.23630286123
+adaptive finite	148	3.23422345788
+time discretization	324	3.23378655891
+collocation method	207	3.23005307501
+numerical tests	823	3.21304003554
+asymptotic preserving	161	3.2119907765
+diffusion equations	1301	3.20610564432
+energy norm	177	3.19827929087
+splitting methods	192	3.1981159936
+priori error estimates	123	3.19797508089
+virtual element	93	3.19281834931
+quadrature rules	174	3.19240931837
+element discretization	154	3.18517911931
+difference scheme	349	3.17676768369
+weak galerkin	104	3.17157714625
+error bound	529	3.17044979237
+convergence results	685	3.16625951796
+reaction diffusion	2492	3.1643451814
+multigrid method	173	3.16161561797
+total variation	1414	3.14907305269
+structure preserving	244	3.13914147703
+fractional diffusion	648	3.13622399765
+reduced order	452	3.13153295824
+difference schemes	288	3.13116899925
+adaptive finite element	130	3.1207346263
+conjugate gradient	500	3.11635554102
+step size	754	3.10825406341
+euler equations	1514	3.10197207011
+eigenvalue problem	1474	3.09539735167
+mesh refinement	889	3.09473197359
+tensor product	3119	3.09389934237
+finite volume scheme	166	3.08937350638
+stokes problem	194	3.08903430524
+volume scheme	167	3.08867537854
+proposed method	4788	3.08191530344
+optimal control	3764	3.07815617741
+conservation laws	3420	3.06703690459
+theoretical results	3761	3.0665902546
+finite element discretization	140	3.06637964253
+discontinuous galerkin dg	134	3.06379732097
+galerkin dg	134	3.06379732097
+interior penalty	109	3.06154926598
+time steps	753	3.0544831639
+interface problems	101	3.04797941225
+integral equations	1466	3.04726444318
+finite element space	98	3.03381360751
+order accuracy	492	3.02802154859
+spectral method	450	3.02327977704
+variational integrators	151	3.01952013684
+shallow water	808	3.01909543803
+positive definite	2131	3.01233577071
+elliptic equations	1183	3.00872126574
+quasi optimal	162	3.00550091354
+level set	776	2.99567532013
+porous media	910	2.99415389184
+tikhonov regularization	188	2.99243524475
+incompressible navier	601	2.98657628795
+hyperbolic conservation	222	2.98385425873
+spatial discretization	207	2.97971404056
+radial basis functions	144	2.9775458949
+incompressible navier stokes	598	2.97660752479
+algebraic multigrid	107	2.97566637506

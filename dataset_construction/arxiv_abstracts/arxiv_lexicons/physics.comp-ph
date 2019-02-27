@@ -1,0 +1,150 @@
+lattice boltzmann	1148	3.51542175544
+quantum monte carlo	3518	3.1252784961
+quantum monte	3522	3.12513992519
+finite element	4267	2.83521943401
+discontinuous galerkin	930	2.77082705944
+time step	1706	2.72063647971
+dynamics simulations	3064	2.71632568597
+finite difference	2089	2.67022390113
+molecular dynamics simulations	2543	2.65558987223
+element method	1806	2.62914352677
+kohn sham	1127	2.62559955658
+graphics processing	391	2.5812037158
+processing units	428	2.56313178366
+electronic structure calculations	931	2.54872432923
+lattice boltzmann method	279	2.52890549583
+boltzmann method	286	2.46876129474
+time steps	753	2.46601966565
+finite element method	1309	2.39199773186
+massively parallel	469	2.35623192186
+lennard jones	1337	2.35534067653
+structure calculations	1664	2.34857148903
+computational cost	2040	2.3221870784
+time domain	2334	2.3212541685
+graphics processing units	271	2.29234946817
+xeon phi	170	2.28393959656
+conformational space	68	2.25987977123
+number generators	221	2.24403364319
+domain decomposition	491	2.2296493789
+high order	4087	2.21030170073
+numerical scheme	969	2.20886827037
+boltzmann model	163	2.16364442705
+lattice boltzmann model	121	2.14964225738
+open source	1614	2.12582519313
+processing units gpus	181	2.1152923755
+units gpus	191	2.11140287839
+dynamics simulation	796	2.08185812189
+random number	623	2.08167367314
+stokes equations	3238	2.07055591634
+semi implicit	227	2.06979013629
+brownian dynamics	477	2.054908538
+numerical experiments	3745	2.05018428602
+poisson equation	969	2.04511101548
+gpu accelerated	130	2.03990684982
+molecular dynamics md	448	2.02030454073
+dynamics md	451	2.01979560222
+discontinuous galerkin method	226	2.01953929258
+wang landau	325	2.01809814188
+unconditionally stable	162	2.01786911758
+order accurate	396	2.01782233269
+time stepping	420	2.01218649302
+boltzmann equation	2550	2.00805031548
+navier stokes equations	3007	2.00237122765
+conjugate gradient	500	1.99452832209
+finite elements	631	1.9935226105
+basis functions	1392	1.98723521906
+replica exchange	199	1.98486033305
+molecular dynamics simulation	670	1.98381389085
+complex networks	2813	1.9831139966
+configuration interaction quantum monte	47	1.98301976599
+interaction quantum monte carlo	47	1.98301976599
+interaction quantum monte	47	1.98301976599
+configuration interaction quantum	47	1.98301976599
+porous media	910	1.97964137288
+random number generators	163	1.97400476553
+fixed node	207	1.97163189507
+sign problem	1065	1.96701376669
+variational monte carlo	444	1.95852150773
+variational monte	445	1.95832006611
+galerkin method	504	1.95816693912
+trial wave	328	1.94483209917
+large systems	712	1.9383687612
+boundary integral	448	1.93402431232
+uncertainty quantification	334	1.93177818885
+molecular systems	492	1.92771435606
+finite difference time	272	1.92602840836
+difference time	275	1.92523428482
+free surface	894	1.91631187939
+graphics processing units gpus	137	1.91567642714
+high performance	1444	1.9142647108
+diffusion monte carlo	432	1.91057801435
+diffusion monte	433	1.91037788987
+dissipative particle	192	1.90777262227
+time dependent schr	485	1.90661368672
+model reduction	451	1.90636822989
+dependent schr	493	1.90554653214
+boundary element	300	1.90546206845
+schr odinger equation	3551	1.90376048965
+odinger equation	3583	1.90326631415
+order accuracy	492	1.9029291552
+computational physics	88	1.90239129535
+finite differences	257	1.90204683214
+event driven	314	1.90091743034
+runge kutta	772	1.90061697411
+computational performance	149	1.90005803233
+numerical examples	2458	1.89680412494
+basis set	838	1.89667692559
+cell pic	241	1.89349932644
+theory dft	1235	1.89336433467
+numerical schemes	500	1.8918905441
+kohn sham density	137	1.8847480945
+sham density	139	1.88371361584
+density functional theory dft	1176	1.87927597511
+functional theory dft	1176	1.87927597511
+finite difference time domain	270	1.87916926164
+difference time domain	270	1.87916926164
+dissipative particle dynamics	177	1.87638644137
+intel xeon	152	1.87145834999
+kinetic scheme	117	1.87040129911
+md simulations	488	1.86878954909
+sham density functional theory	124	1.86549158084
+lattice boltzmann models	78	1.86506119062
+material point	68	1.86405680499
+computational time	475	1.86352530676
+kohn sham density functional	129	1.86273765934
+sham density functional	131	1.86166832525
+real space	2875	1.85816127839
+interaction quantum	94	1.85723350629
+computational domain	301	1.85441269192
+gas kinetic	234	1.85268389906
+imaginary time	908	1.85037936358
+phase field	1110	1.8473867999
+time dependent schr odinger	361	1.84405397641
+band gap	2947	1.843054411
+dependent schr odinger	368	1.84291432743
+test cases	702	1.84237758287
+periodic systems	277	1.83961091141
+configuration interaction	918	1.83867006606
+electronic properties	2206	1.83745965512
+semi lagrangian	178	1.83593683267
+mesh refinement	889	1.83447511232
+pseudorandom number	89	1.83357848259
+computational efficiency	799	1.83234805255
+volume method	201	1.83196090681
+chem phys	718	1.82943030699
+maxwell equations	2588	1.82867500653
+particle transport	353	1.82829138275
+time integration	335	1.82735146484
+parallel implementation	251	1.82162935036
+dependent schr odinger equation	334	1.82119038248
+advection diffusion	367	1.81957722638
+spectral element	132	1.81873473788
+finite volume method	187	1.81482277667
+graphics processing unit	119	1.80456036233
+boltzmann models	84	1.80451868487
+fluid flow	818	1.80296651738
+gpu implementation	87	1.80281568775
+difference scheme	349	1.80228324708
+fast multipole	163	1.80186694763
+gas kinetic scheme	75	1.79686590579
+quantum monte carlo calculations	305	1.7892316386

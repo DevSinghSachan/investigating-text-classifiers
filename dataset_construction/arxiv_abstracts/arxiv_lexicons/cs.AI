@@ -1,0 +1,150 @@
+answer set	540	4.34065571193
+reinforcement learning	1523	4.27023026069
+logic programming	878	4.05500768495
+logic programs	707	4.04816802889
+answer set programming	320	3.91816547426
+set programming	320	3.91816547426
+artificial intelligence	538	3.72605521304
+decision making	1546	3.66418480813
+multi agent	1157	3.55478852363
+local search	686	3.51206540746
+markov decision	904	3.46362069982
+natural language	1672	3.46061190269
+knowledge representation	257	3.4478529991
+bayesian networks	386	3.35814095855
+knowledge bases	304	3.34664060636
+constraint programming	235	3.33153771077
+constraint satisfaction	776	3.31352014227
+knowledge base	410	3.23230890493
+decision processes	540	3.22530008543
+belief revision	104	3.18752926577
+markov decision processes	505	3.18399317579
+semantic web	247	3.12069900507
+rough sets	148	3.11316871557
+logic program	184	3.00832745539
+graphical models	1015	2.97583549723
+answer sets	134	2.96950442275
+description logics	144	2.94095282361
+search space	595	2.91777006005
+programming asp	106	2.87812538799
+set programming asp	106	2.87812538799
+answer set programming asp	106	2.87812538799
+np hard	2577	2.87574358724
+problem solving	269	2.85895012968
+description logic	126	2.85660952789
+abstract argumentation	54	2.84213883356
+model semantics	125	2.76443349708
+neural network	4447	2.75947707816
+data mining	965	2.7582057299
+multi objective	485	2.75455339553
+probabilistic inference	191	2.72939145758
+heuristic search	100	2.71442802062
+partially observable	250	2.69155933228
+bayesian network	267	2.68236611151
+propositional logic	288	2.68172723148
+satisfaction problems	412	2.68015454941
+order logic	1016	2.67944571693
+dempster shafer	87	2.66502409506
+optimization problems	2811	2.66486183034
+arc consistency	79	2.66172699973
+stable model	261	2.66096756238
+constraint satisfaction problems	400	2.65829769159
+query answering	199	2.65353057107
+stable model semantics	101	2.65229652519
+planning problems	121	2.64583851655
+based reasoning	97	2.64581097965
+nonmonotonic reasoning	59	2.64463410609
+domain knowledge	182	2.63519259594
+tree search	174	2.63259458679
+deep reinforcement	207	2.6318571322
+learning algorithm	1153	2.62844983507
+rule based	372	2.62015241611
+deep reinforcement learning	206	2.61292716123
+belief change	47	2.60469181202
+decision process	443	2.60194072335
+domain independent	87	2.59592159746
+probabilistic programming	115	2.59504576087
+belief functions	78	2.58687868363
+belief propagation	934	2.57678804132
+default logic	59	2.5713159397
+probabilistic logic	86	2.57027888818
+logic based	184	2.56800738302
+answer set semantics	72	2.55604315744
+learning algorithms	1267	2.55277399987
+search algorithm	1006	2.54746177772
+set semantics	84	2.54649651532
+disjunctive logic	76	2.54414685377
+case based	135	2.52008188871
+deep learning	2127	2.51513371658
+computational complexity	3001	2.51016523567
+search algorithms	419	2.50157153853
+stable models	191	2.49946514578
+observable markov decision	131	2.49320219221
+observable markov	138	2.48995201299
+monte carlo tree	80	2.48851910854
+carlo tree	80	2.48851910854
+monte carlo tree search	80	2.48851910854
+carlo tree search	80	2.48851910854
+sat solvers	121	2.48476968557
+lifted inference	44	2.47236313078
+knowledge graphs	90	2.46216908719
+fuzzy sets	169	2.46121239603
+theorem proving	199	2.46103512171
+global constraints	175	2.45930929547
+probabilistic models	413	2.45857356163
+background knowledge	128	2.45535038625
+partially observable markov decision	127	2.45291859031
+partially observable markov	132	2.45097403462
+constraint propagation	134	2.44787209716
+decision support	170	2.43688964822
+planning problem	158	2.42895028321
+problem instances	185	2.42178925665
+learning rl	120	2.42159567392
+reinforcement learning rl	120	2.42159567392
+voting rules	107	2.41676242303
+rough set	85	2.41384949939
+algorithm selection	60	2.41286496344
+pattern mining	129	2.38351583306
+expected utility	177	2.3827224172
+automated theorem	80	2.38220937656
+markov decision process	346	2.38092074486
+satisfaction problem	231	2.38047672528
+agent systems	463	2.37100054815
+sequential decision	144	2.36914198934
+decision maker	255	2.36239893434
+message passing	1432	2.36154922052
+domain specific	512	2.35524611423
+constraint satisfaction problem	214	2.3513382287
+global constraint	93	2.34473407341
+combinatorial optimization	671	2.3417422646
+observable markov decision processes	65	2.34150873543
+language processing	664	2.34043895994
+partial order	795	2.33733807113
+approximate inference	227	2.33582930994
+information systems	216	2.33450644144
+empirical evaluation	269	2.3274544885
+information compression	54	2.32520988422
+automated reasoning	78	2.32273554621
+temporal logic	666	2.31004141204
+sp theory	61	2.30774336237
+question answering	471	2.30687753088
+inductive logic	63	2.30139828425
+natural language processing	568	2.30097964727
+recurrent neural	1194	2.29556089663
+hidden markov	1048	2.29483464792
+multi agent systems	442	2.29239472623
+model checking	1427	2.28447349832
+policy gradient	119	2.27026172761
+decision theory	221	2.26719659152
+ontology based	67	2.26482915113
+causal models	111	2.26277919199
+proposed approach	2392	2.26206377611
+programming tplp	85	2.25958188663
+logic programming tplp	85	2.25958188663
+optimization problem	3820	2.25785292563
+deep neural	1482	2.25715361522
+path planning	210	2.25586756412
+founded semantics	73	2.25282985363
+dynamic programming	1226	2.24807076873
+knowledge graph	99	2.24764572106
+shafer theory	46	2.24513822664

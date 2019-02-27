@@ -1,0 +1,150 @@
+image reconstruction	649	2.87791621071
+treatment planning	86	2.7449870344
+dose distribution	57	2.65448474697
+carbon ion	69	2.62386364212
+heart rate	155	2.50175218497
+radiation therapy	71	2.48709152475
+magnetic resonance	2150	2.43555622943
+computed tomography	191	2.41313090004
+magnetic resonance imaging	363	2.32501873896
+resonance imaging	365	2.32451265599
+dose rate	61	2.06656248789
+ct images	71	1.99694376715
+image quality	454	1.99006765887
+bragg peak	106	1.95553823121
+intensity modulated	51	1.93496434887
+heart rate variability	60	1.9280914977
+pencil beam	133	1.91764782604
+ion beam	645	1.90003748603
+ct image	49	1.86001871811
+emission tomography	71	1.85634190758
+rate variability	88	1.8477500747
+tomography ct	78	1.82886186691
+computed tomography ct	72	1.80227812204
+electrical impedance	173	1.79532477236
+reconstruction algorithm	368	1.7908394189
+ion beams	253	1.78573604819
+iterative reconstruction	69	1.76515599122
+blood pressure	83	1.7440498973
+human brain	331	1.74172575769
+spatial resolution	3509	1.74002710238
+healthy subjects	73	1.73776856532
+cancer cells	92	1.72845120729
+total variation	1414	1.7217353574
+impedance tomography	159	1.7192230761
+ultrasound imaging	45	1.70382033315
+phase contrast	143	1.68675771025
+positron emission tomography	59	1.68106717851
+photoacoustic tomography	102	1.67325148011
+reconstruction algorithms	293	1.66717799568
+positron emission	88	1.66278342153
+electrical impedance tomography	147	1.66084540529
+ray ct	45	1.64599482005
+magnetic resonance imaging mri	99	1.64368477307
+resonance imaging mri	99	1.64368477307
+imaging mri	103	1.64173254118
+low rank	3069	1.63577588024
+tumor growth	144	1.6181246348
+medical imaging	240	1.6088305272
+blood flow	141	1.58080477673
+optimization problem	3820	1.57501668528
+human body	168	1.56420290016
+geant4 toolkit	47	1.55780096484
+low dose	51	1.55742328539
+heavy charged	179	1.55468205017
+noise ratio	3686	1.55308917645
+cancer therapy	52	1.5304062691
+imaging modality	50	1.51972324675
+biological tissue	56	1.51467316242
+mri data	68	1.5037253708
+computer aided	249	1.50201336925
+mesh generation	83	1.49703591698
+magnetic particle	58	1.48956936727
+lung cancer	61	1.48900346867
+acquisition time	56	1.48832587519
+optical coherence tomography	95	1.48811662848
+coherence tomography	95	1.48811662848
+brain activity	168	1.48233220668
+multi criteria	97	1.47674841897
+optical coherence	160	1.47176784631
+ct scans	46	1.46471685091
+multiple coulomb scattering	52	1.45811357982
+detrended fluctuation	248	1.45522102991
+multiple coulomb	58	1.4547880701
+optical tomography	78	1.45056308995
+reconstructed images	90	1.44320404683
+heart failure	48	1.44117300453
+nuclear fragmentation	72	1.44028824648
+clinical applications	42	1.43967520619
+associative memory	197	1.43956311567
+variation tv	94	1.43916066936
+total variation tv	93	1.43916066936
+human motion	111	1.43318807657
+fragmentation reactions	60	1.43207830988
+eeg signals	81	1.41956761438
+spectral domain	176	1.41849826048
+liquid xenon	370	1.41803914515
+shear waves	96	1.4158341507
+biomedical imaging	44	1.41165431658
+nuclear power plant	51	1.40995583049
+detrended fluctuation analysis	237	1.40850662299
+phase synchronization	324	1.40142017267
+convex optimization	1989	1.39834169612
+medical applications	74	1.39547604899
+magnetic resonance spectroscopy	52	1.39257648313
+temporal resolution	505	1.39190083962
+focal spot	45	1.38766499392
+imaging modalities	63	1.38029515616
+cloud computing	620	1.37803271578
+compressive sensing	861	1.37640418488
+light imaging	46	1.37512350571
+image domain	66	1.37498310762
+3d image	62	1.37002495322
+fluctuation analysis	360	1.36848655984
+radiation dose	54	1.35877296309
+20 mm	60	1.35699945966
+resonance spectroscopy	157	1.35677010703
+dynamic range	1032	1.35545684337
+phase contrast imaging	56	1.35509134532
+blood vessels	56	1.34561353897
+optical energy	59	1.34544889525
+beam transport	83	1.33806243415
+spin echo	405	1.33601601659
+electroencephalography eeg	45	1.33515251434
+quality assurance	82	1.33416449113
+variation minimization	61	1.33415261068
+dielectric properties	293	1.32602404381
+red blood cells	118	1.32227789003
+data acquired	322	1.32034904418
+based iterative	91	1.31670786293
+breast cancer	205	1.31667084067
+parkinson disease	46	1.31658176775
+blood cells	152	1.31539442773
+red blood	171	1.31369704843
+biological tissues	91	1.31353388749
+source channel	385	1.31332634341
+white matter	87	1.31284798184
+poly methyl	44	1.31157360227
+beam axis	128	1.31086013495
+hurst exponent	322	1.31045144454
+dwell times	78	1.30791480592
+imaging systems	123	1.30727831196
+drug delivery	74	1.30630952312
+electroencephalogram eeg	46	1.30539242732
+induction decay	86	1.30481395384
+biomedical applications	59	1.30236077869
+delivery time	71	1.29588291879
+signal intensity	71	1.29423806066
+plastic scintillators	56	1.29313236592
+control group	52	1.29063607643
+lorentz force	874	1.2897680081
+stopping power	201	1.28937054442
+nuclear magnetic resonance	1077	1.28888623497
+vocal tract	48	1.28857561671
+file format	53	1.28619123593
+contrast imaging	368	1.28301752012
+monte carlo model	220	1.28005228678
+carlo model	221	1.27983717891
+dipolar field	139	1.27862209479
+fluid structure interaction	146	1.27538148671
+ray phase	112	1.27406681088

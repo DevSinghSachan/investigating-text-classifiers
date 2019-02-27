@@ -1,0 +1,150 @@
+weak solutions	1914	5.45157111004
+stokes equations	3238	5.17193222318
+global existence	1445	5.13710286292
+navier stokes equations	3007	5.13453834296
+cauchy problem	2131	5.11618012057
+elliptic equations	1183	5.06768271259
+free boundary	1700	4.94603476686
+bounded domain	1430	4.92293816329
+sobolev spaces	1491	4.84865391253
+parabolic equations	1004	4.81683115131
+euler equations	1514	4.724358259
+positive solutions	842	4.65418225365
+partial omega	1044	4.63212328419
+fractional laplacian	700	4.61701652729
+wave equation	3658	4.54199967367
+nonlinear schr	1942	4.49598348944
+dirichlet problem	853	4.45446414742
+heat equation	1661	4.43216519944
+weak solution	815	4.40995747794
+dirichlet boundary	1519	4.40089588912
+odinger equation	3583	4.36657108692
+strichartz estimates	418	4.36281278599
+schr odinger equation	3551	4.3620193618
+nonlinear schr odinger	1412	4.3580666437
+nonlinear elliptic	469	4.27557356456
+omega subset	766	4.25827236132
+reaction diffusion	2492	4.243272749
+elliptic systems	395	4.22817057603
+domain omega	721	4.22575408971
+prove existence	909	4.19565027748
+differential operators	3274	4.19500692136
+strong solutions	562	4.18947976061
+viscosity solutions	557	4.1892460047
+elliptic equation	521	4.17076637505
+initial boundary	823	4.16445327717
+neumann boundary	954	4.09726582802
+sobolev space	751	4.08164728784
+parabolic equation	518	4.06224068224
+prove global	433	4.06093722957
+priori estimates	544	4.0448319546
+wave equations	1895	4.03759413687
+fully nonlinear	1035	4.03262817243
+sign changing	384	4.01267605988
+partial differential equations	3633	4.0106568147
+elliptic operators	677	4.00507746581
+boundary data	765	4.00331854498
+semilinear elliptic	316	3.99891759468
+subset mathbb	1722	3.98667858969
+finite time	3603	3.98627997562
+nonlinear schr odinger equation	882	3.98597433574
+divergence form	441	3.98374643165
+water waves	561	3.975205326
+existence results	619	3.9709212487
+riemannian manifolds	2630	3.96520887135
+global regularity	331	3.96101190932
+order elliptic	565	3.95619468155
+boundary problem	664	3.95441053366
+boundary condition	4307	3.93463462165
+porous medium	667	3.91834351971
+begin equation	757	3.91088968717
+end equation	757	3.90734643982
+incompressible navier	601	3.9053399376
+bounded domains	567	3.90477868514
+compressible navier	468	3.90276317963
+compressible navier stokes	468	3.90276317963
+incompressible navier stokes	598	3.90113405734
+energy critical	264	3.90106156383
+existence result	536	3.90036592664
+unique continuation	318	3.89922016286
+dirichlet boundary conditions	907	3.89569569415
+global solutions	618	3.87975746625
+free boundary problem	416	3.87604959656
+odinger equations	678	3.87337161446
+keller segel	362	3.87017246073
+omega subset mathbb	451	3.86835900341
+schr odinger equations	668	3.8596529007
+smooth solutions	525	3.85843098906
+classical solutions	1249	3.84817489263
+equation delta	296	3.84547009887
+int_ omega	321	3.84101999176
+asymptotic behavior	4186	3.83479482654
+schr dinger	2310	3.82705642471
+elliptic problems	446	3.823737212
+riemannian manifold	2883	3.8209926957
+regularity results	394	3.81572448042
+maximum principle	1023	3.81336651241
+nonlinear parabolic	341	3.81089664179
+nonlinear schrodinger	887	3.80415301503
+time existence	449	3.80050117135
+energy space	514	3.79530901022
+cahn hilliard	683	3.78930124009
+incompressible euler	332	3.78156791376
+strong solution	413	3.77474525821
+degenerate parabolic	281	3.77010470081
+radially symmetric	491	3.76592001737
+existence uniqueness	517	3.7631413444
+diffusion equations	1301	3.75528652912
+allen cahn	384	3.75180350891
+low regularity	313	3.74499242016
+hamilton jacobi	2269	3.74025612819
+hamilton jacobi equations	400	3.73458972062
+decay estimates	324	3.732531715
+nonlinear wave	758	3.73073136665
+solitary waves	1112	3.72775636434
+jacobi equations	431	3.72677897647
+besov spaces	551	3.72468269954
+global weak	251	3.72193235563
+liouville type	418	3.70659152924
+klein gordon	2698	3.70511592055
+quasilinear elliptic	188	3.70015258003
+harmonic functions	1042	3.69851363987
+quad text	365	3.69774723616
+times mathbb	1762	3.69722217489
+local existence	354	3.68735728718
+conservation laws	3420	3.68343642577
+weighted sobolev	363	3.67995661881
+large time behavior	325	3.67553523236
+degenerate elliptic	255	3.66913500858
+left begin	358	3.668655803
+mathbb times	1722	3.66712122973
+diffusion equation	1851	3.64408523306
+half space	968	3.63964414682
+type equations	981	3.63668609429
+quasi geostrophic	366	3.63143909072
+semilinear wave	223	3.62989706633
+asymptotic stability	717	3.62904287401
+obstacle problem	269	3.62864038873
+end array	371	3.61996238606
+begin array	372	3.61966899998
+reaction diffusion equations	452	3.60531695845
+smooth bounded	252	3.60268349767
+linear elliptic	291	3.60056935921
+hyperbolic systems	552	3.60025516012
+radial solutions	216	3.59627947979
+scalar conservation	237	3.58858289221
+laplace operator	798	3.58697468848
+elliptic problem	262	3.58629155607
+neumann boundary conditions	604	3.58551827672
+energy solutions	379	3.58468001609
+nonlinear elliptic equations	180	3.57470555775
+energy estimates	381	3.56807678873
+heat kernel	1934	3.5657843756
+burgers equation	931	3.56348100135
+gradient flow	962	3.56309196753
+large time	1447	3.56304086793
+domain omega subset	291	3.55773559555
+pseudodifferential operators	575	3.55749166125
+bounded domain omega	239	3.55655702289
+gamma convergence	261	3.5504194968
+camassa holm	573	3.53359514741

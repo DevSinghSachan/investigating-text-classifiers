@@ -1,0 +1,150 @@
+gene expression	1343	3.31411468257
+random effects	428	3.14493131132
+variable selection	1092	3.04283225982
+bayesian hierarchical	197	2.98707250617
+real data	2617	2.97516925561
+simulation study	1557	2.94009025953
+logistic regression	717	2.93538595486
+regression model	901	2.89954924311
+maximum likelihood	4565	2.86374827482
+simulation studies	1145	2.86200181351
+functional data	628	2.80791179724
+missing data	674	2.76756615536
+sample size	2109	2.76731373789
+markov chain	4855	2.766076445
+expression data	387	2.73720517932
+model selection	2055	2.72926858193
+distance covariance	60	2.72734679787
+hidden markov	1048	2.68791559835
+markov chain monte carlo	2081	2.67000458861
+markov chain monte	2083	2.66994753776
+chain monte carlo	2110	2.66920831679
+chain monte	2112	2.66915164039
+gaussian process	1563	2.65727988266
+bayesian approach	924	2.65069456573
+genome wide	358	2.64883157036
+bayesian model	742	2.64765687083
+regression models	914	2.63633958995
+association studies	226	2.60931751336
+spatio temporal	2072	2.59971874317
+statistical analysis	2135	2.59439508678
+wind speed	515	2.59018808193
+simulated data	1365	2.57473746466
+bayesian hierarchical model	83	2.57121030802
+generalized linear	607	2.53554986645
+gene expression data	304	2.52234405118
+false discovery	400	2.5017843532
+mixture model	628	2.49755599858
+hierarchical model	433	2.49648614917
+change point	577	2.46092389906
+multiple temperature	56	2.45369130673
+computationally efficient	1392	2.44565718761
+clinical trials	168	2.430904691
+multiple testing	380	2.42847806686
+linear mixed	250	2.42686236782
+1000 years	82	2.4179793428
+fmri data	155	2.4164640948
+likelihood ratio	888	2.40329404217
+posterior distribution	1015	2.40182036813
+state space	3761	2.38651312261
+bayesian nonparametric	381	2.38489762566
+linear models	1071	2.37003052478
+principal component	1539	2.36778213987
+age specific	64	2.36689912283
+proposed method	4788	2.36334571298
+em algorithm	576	2.36020105693
+cross validation	754	2.35773384269
+high throughput	847	2.35025170785
+false discovery rate	306	2.3491319739
+likelihood estimation	748	2.34324088919
+dirichlet process	463	2.34165903186
+treatment effect	266	2.3384209673
+magnetic resonance imaging	363	2.33385149654
+resonance imaging	365	2.33333841123
+rna seq	199	2.33139333404
+case control	160	2.32406527458
+public health	219	2.3186147991
+bayesian inference	1316	2.31766538774
+confidence intervals	1049	2.31596593623
+clinical trial	105	2.30689221423
+mixed effects	182	2.30579795198
+discovery rate	351	2.30564649069
+air pollution	94	2.30184971727
+hierarchical bayesian	231	2.29322150182
+predictive performance	252	2.29168602693
+wide association	174	2.28888169921
+breast cancer	205	2.28593867776
+united states	387	2.2832119668
+surface temperatures	221	2.28073354615
+genome wide association	167	2.27134609832
+mixed models	241	2.26921499207
+change points	278	2.26434809306
+markov models	709	2.25835426909
+parameter estimation	2355	2.25360536454
+risk factors	118	2.24787212393
+mortality rates	75	2.24684568782
+meta analysis	232	2.2433389585
+point process	1539	2.24025556135
+latent variable	443	2.23997027409
+longitudinal data	199	2.22960874595
+count data	246	2.2260643462
+statistical methods	614	2.21961867602
+microarray data	189	2.21946833599
+data analysis	3935	2.21795775217
+markov model	579	2.21711200494
+type error	218	2.20567406012
+proportional hazards	91	2.19094490231
+proposed approach	2392	2.18828994631
+hypothesis testing	904	2.18755204554
+proposed methods	924	2.18594973325
+measurement error	357	2.17684354508
+genome wide association studies	130	2.15755256114
+wide association studies	135	2.15430364256
+maximum likelihood estimation	633	2.15060010541
+graphical models	1015	2.14773871353
+differentially expressed	78	2.14728165281
+survival analysis	184	2.14191103033
+copy number	164	2.14124829941
+linear regression	1261	2.13484305514
+data driven	1528	2.13309845612
+bayesian framework	465	2.1321299367
+sequencing data	128	2.1300875208
+sensitivity analysis	654	2.12796172873
+treatment effects	192	2.12129485887
+magnetic resonance	2150	2.11762984725
+decision making	1546	2.11599743889
+component analysis	1675	2.11153798308
+principal components	597	2.11004355477
+propose bayesian	154	2.10906228476
+seq data	97	2.10836115058
+expression levels	149	2.10761042679
+statistical inference	795	2.10753247495
+functional magnetic resonance imaging	116	2.10660093788
+functional magnetic resonance	125	2.10249082972
+land cover	53	2.10009333382
+expectation maximization	534	2.09804637681
+post processing	900	2.09799522785
+functional magnetic	135	2.09752008647
+time varying	3212	2.09550633999
+functional connectivity	187	2.09524392934
+life expectancy	79	2.09478445567
+data collected	2751	2.09388767973
+existing methods	1644	2.09345522239
+brain activity	168	2.09230818121
+arxiv 1010	58	2.09057360766
+model averaging	195	2.08871967952
+differential expression	139	2.08838936912
+response variable	183	2.086502532
+semi parametric	232	2.08517750355
+process model	339	2.07918816254
+markov random	552	2.07714998556
+estimation procedure	355	2.07671493876
+latent class	111	2.06889835159
+markov switching	99	2.06816955761
+short term	1946	2.0672117859
+empirical bayes	286	2.06587923996
+hidden markov model	315	2.06000476322
+traffic flow	670	2.05933786287
+resting state	136	2.0589311548
+principal component analysis	1209	2.05477256796
+hiv aids	44	2.05017545714

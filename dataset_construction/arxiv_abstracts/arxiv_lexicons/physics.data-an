@@ -1,0 +1,150 @@
+complex networks	2813	2.77359159915
+data assimilation	481	2.65906944632
+confidence intervals	1049	2.62937654038
+detrended fluctuation	248	2.53748043012
+maximum likelihood	4565	2.51234912902
+fluctuation analysis	360	2.48618825537
+detrended fluctuation analysis	237	2.47872351887
+high energy physics	1167	2.37668474004
+wind speed	515	2.37497778183
+extreme events	341	2.35668892363
+energy physics	1631	2.33636940382
+data analysis	3935	2.32215094778
+benford law	172	2.31175392811
+probability density	3134	2.26278509256
+community structure	937	2.25258573626
+hurst exponent	322	2.22952970904
+mutual information	2595	2.21252068924
+series data	617	2.20698881053
+continuous time	4084	2.16798872492
+time series data	606	2.16581179041
+complex systems	1789	2.13692853765
+bayesian approach	924	2.1027918221
+zipf law	346	2.10220391973
+kalman filter	767	2.09319092474
+markov chain	4855	2.07065455861
+complex network	705	2.07030782778
+bayesian inference	1316	2.06563366415
+stochastic processes	1679	2.06104565219
+multifractal detrended	70	2.05977711618
+time series analysis	404	2.0564249662
+bipartite networks	191	2.04189683007
+degree distribution	1662	2.03119028479
+boosted decision	101	2.02804250986
+boosted decision trees	72	2.02113398524
+series analysis	438	2.01535291673
+physics analysis	92	2.00675989597
+markov chains	2200	1.99083644091
+moving average	390	1.98988471591
+inverse problems	1309	1.98886105482
+probability density function	1239	1.97980762995
+parameter estimation	2355	1.96377781173
+clustering coefficient	519	1.93403075599
+nuisance parameters	241	1.93080442095
+weighted networks	318	1.92980589645
+probability density functions	535	1.92217111543
+bayesian estimation	250	1.91574645666
+decision trees	391	1.91304854837
+range dependence	269	1.91162751134
+multifractal detrended fluctuation	58	1.90583185228
+long range dependence	230	1.89964682776
+allan variance	58	1.89830692842
+cross correlation	3389	1.89750127377
+visibility graph	81	1.8945139238
+time random	624	1.87853215172
+surrogate data	79	1.87770065984
+community detection	1093	1.87495419832
+likelihood fits	48	1.87286903966
+continuous time random	498	1.87217536149
+white noise	1869	1.86627715876
+ensemble kalman	187	1.8655595032
+neural network	4447	1.85674836326
+multifractal detrended fluctuation analysis	57	1.85577859059
+visibility graphs	112	1.85267194799
+spike train	170	1.84215730534
+stock market	672	1.83265562006
+measurement noise	330	1.83025630461
+maximum entropy	1751	1.83010413225
+real data	2617	1.82873839449
+semi markov	232	1.82835466284
+modular structure	196	1.82770163794
+horizontal visibility	46	1.82722789769
+interdependent networks	182	1.82637171397
+small world	1527	1.82574875338
+financial markets	583	1.82526040316
+waiting time	889	1.81534718337
+signal processing	1631	1.79981207582
+wind turbine	82	1.79044217471
+relative entropy	1633	1.79025472422
+image reconstruction	649	1.78996612609
+markov processes	1311	1.789782587
+continuous wavelet	130	1.78034361034
+network theory	256	1.77807676911
+likelihood method	441	1.76918213659
+statistical properties	3501	1.76151513173
+density functions	941	1.75723762488
+detrended fluctuation analysis dfa	68	1.7563851359
+information theoretic	2298	1.75548479799
+fluctuation analysis dfa	70	1.7548604503
+analysis dfa	73	1.75264799
+langevin equation	1403	1.75254259358
+financial data	216	1.751058152
+wavelet transform	555	1.74945659865
+world networks	1122	1.74929057973
+long memory	447	1.74620748626
+poisson process	913	1.74321790669
+random matrix	4269	1.74103023154
+likelihood ratio	888	1.73844586245
+phase synchronization	324	1.73377645938
+scale free networks	1251	1.72499147224
+free networks	1261	1.7242558092
+model selection	2055	1.72215712651
+correlation matrices	317	1.72007349615
+time frequency	862	1.71651020067
+discrete time	3366	1.71395598927
+covariance matrices	1002	1.70684466976
+financial time series	294	1.70383998463
+financial time	295	1.70383998463
+mf dfa	52	1.70378680492
+density function	2035	1.70219610382
+empirical data	709	1.70190243147
+stochastic differential	3333	1.6998320492
+pattern recognition	637	1.69840960473
+stochastic process	1498	1.69559629712
+fractional gaussian	61	1.69348989126
+random variables	4834	1.69261313131
+fractional brownian	1403	1.69233045288
+hyperspectral images	127	1.68892308998
+real networks	483	1.68551910177
+hypothesis testing	904	1.67908921525
+kramers moyal	46	1.67863305918
+brain networks	225	1.67643660634
+power spectral	648	1.67545351797
+scale free	3443	1.67032279223
+range correlations	1414	1.66940929364
+long range correlations	762	1.66356402917
+multivariate time series	210	1.65944273384
+multivariate time	215	1.65801964992
+maximum posteriori	409	1.65499356933
+modularity maximization	55	1.65194288532
+gaussian noise	1632	1.64859107849
+high energy physics experiments	90	1.64634734814
+energy physics experiments	90	1.64634734814
+scaling range	43	1.64196822721
+conditional probability	455	1.64085423457
+information flow	743	1.64015017422
+ensemble kalman filter	111	1.63926527206
+simulated data	1365	1.63786824088
+network measures	65	1.63706581453
+cost function	1291	1.63693972333
+data processing	1046	1.63204926798
+systematic uncertainties	1660	1.62937613284
+data points	1375	1.62909305202
+fit tests	167	1.62513117293
+poisson processes	354	1.62288121644
+partial wave analysis	361	1.62118929457
+markov model	579	1.62111528219
+continuous time random walk	303	1.62031156321
+power spectral density	381	1.6194883992
+source separation	259	1.61856696113
+image processing	890	1.61505800645

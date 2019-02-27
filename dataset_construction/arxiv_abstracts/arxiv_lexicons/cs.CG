@@ -1,0 +1,150 @@
+log time	929	3.81148613001
+planar graphs	1434	3.4835501328
+time algorithm	2117	3.41644073474
+point set	831	3.39208398934
+np hard	2577	3.3703231187
+approximation algorithm	1540	3.30574317955
+data structure	1329	3.29126694973
+simple polygon	115	3.27035676367
+convex hull	1103	3.26559234693
+computational geometry	222	3.22635350743
+planar graph	738	3.19405352704
+line segments	350	3.09496773345
+point sets	795	3.08983777516
+linear time	2204	3.07459888045
+voronoi diagram	144	3.06973383987
+persistent homology	393	3.0203355654
+delaunay triangulation	175	2.95295104906
+shortest path	1019	2.91435303047
+voronoi diagrams	160	2.90827921391
+echet distance	70	2.82825751316
+fr echet distance	70	2.82825751316
+approximation algorithms	917	2.82770944107
+simple polygons	67	2.82704526619
+np complete	1700	2.79727163344
+axis parallel	180	2.78119099293
+graph drawing	96	2.72870295997
+worst case	2853	2.71922521208
+delaunay triangulations	109	2.71901838804
+fr echet	507	2.71308890247
+straight line	853	2.70033293595
+convex polygon	153	2.68996524973
+query time	386	2.68087938015
+line segment	329	2.67717135676
+log log	3544	2.66161667944
+running time	1799	2.65439130881
+factor approximation	346	2.56586481344
+stretch factor	80	2.55638035582
+planar point	92	2.54228307941
+point location	86	2.5386919855
+art gallery	45	2.51132019523
+data structures	1028	2.47858298683
+spanning tree	1114	2.46449957639
+line drawing	74	2.46246298648
+crossing free	79	2.46235200848
+straight line drawing	61	2.44240398001
+log time algorithm	112	2.44211500312
+convex polyhedron	87	2.43585684021
+hyperbolic plane	512	2.41506336492
+query point	81	2.40899151993
+connected planar	170	2.40745739955
+visibility graphs	112	2.40443933717
+time algorithms	650	2.39684578162
+general position	459	2.39240136427
+euclidean distance	509	2.35258233761
+plane graph	152	2.35024379172
+shortest paths	514	2.34178701693
+convex polyhedra	126	2.32714678214
+axis aligned	128	2.32660982761
+time log	287	2.32630097331
+maximum degree	1253	2.32605958582
+constant factor approximation	269	2.32384660835
+euclidean plane	376	2.31619741459
+time approximation	855	2.29462396134
+geometric graph	220	2.28687491656
+polynomial time algorithm	1070	2.28660194164
+line drawings	46	2.27237627169
+vertex set	1174	2.2685990172
+point cloud	218	2.26686889441
+convex polygons	140	2.26141011196
+planar point set	43	2.24676774304
+theta graphs	57	2.24633690913
+constant factor	1070	2.2443977973
+pairwise disjoint	261	2.24346263743
+polynomial time approximation	387	2.24325365466
+mesh generation	83	2.23724176424
+crossing number	441	2.22077138874
+topological data analysis	117	2.2171845988
+topological data	175	2.21478423609
+minimum number	1491	2.21434943234
+convex hulls	253	2.2137923395
+tile assembly	132	2.20140996112
+linear time algorithm	354	2.187561063
+geometric graphs	272	2.17143153379
+input points	61	2.16810160963
+metric space	2119	2.161915297
+steiner points	59	2.15637060816
+simplicial complex	830	2.15529034462
+hausdorff distance	269	2.14609513855
+algorithm runs	258	2.11435585591
+assembly model	78	2.09176907976
+efficient algorithms	1025	2.08316612574
+cover problem	309	2.07942672823
+circular arcs	64	2.07912106212
+finite set	2279	2.06950760968
+set cover	261	2.05976169509
+plane graphs	110	2.05923889642
+expected time	350	2.05375645317
+preprocessing time	82	2.04902788513
+polygonal domain	43	2.04518951559
+combinatorial complexity	74	2.0416642044
+open problem	2222	2.03764104227
+convex position	71	2.03032886612
+euclidean space	3947	2.02400618495
+time approximation scheme	192	2.02369414292
+varepsilon approximation	83	2.01854908341
+visibility graph	81	2.01631760639
+minimum spanning	385	2.01572834193
+factor approximation algorithm	144	2.0092504999
+approximate nearest	139	1.99817537553
+tile assembly model	59	1.99413055492
+polynomial time algorithms	375	1.99101499526
+simplicial complexes	826	1.98788992591
+time complexity	1185	1.98632904813
+point clouds	189	1.98627066515
+polynomial time approximation scheme	181	1.98507324937
+chet distance	45	1.98412297793
+lceil frac	287	1.98339160898
+space filling	393	1.9760920622
+intersection graphs	255	1.9738654664
+output sensitive	46	1.97200281845
+unit disk	1041	1.97126044235
+geometric objects	315	1.97113558463
+range spaces	43	1.96088523878
+computer graphics	139	1.95939480733
+omega log	691	1.95923952438
+outerplanar graphs	164	1.95562051736
+dimensional euclidean	1315	1.94660309143
+neighbor search	200	1.94137882327
+sqrt log	984	1.93907062442
+minkowski sum	132	1.9359429745
+configuration spaces	597	1.93176118142
+approximate nearest neighbor	117	1.9291990713
+nearest neighbor search	163	1.92881823068
+log log log	982	1.91632486292
+quadratic time	219	1.91596684246
+sensor networks	1439	1.90840301903
+space filling curves	59	1.90739937364
+unit square	200	1.90625690503
+geometric problems	81	1.8970007633
+log log time	131	1.89693159809
+filling curves	70	1.89272021981
+discrete morse	189	1.88713685967
+feature size	49	1.88617184891
+center problem	133	1.87811921471
+eps approximation	87	1.8749249822
+convex body	597	1.8747723173
+minimum spanning tree	300	1.87388181826
+straight line segments	57	1.87063189663
+pseudo triangulations	43	1.86487912031
+disk graph	48	1.85829521342

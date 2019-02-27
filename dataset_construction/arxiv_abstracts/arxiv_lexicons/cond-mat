@@ -1,0 +1,150 @@
+quantum hall effect	2556	3.87507341273
+spin glass	3737	3.78327099194
+luttinger liquid	2023	3.66105491085
+spin wave	2981	3.62023346652
+fractional quantum	2586	3.60944076593
+bose gas	2751	3.6072357752
+fractional quantum hall	2447	3.60237207786
+half filling	2162	3.58904039106
+critical exponents	3454	3.55836999793
+fermi liquid	4745	3.54580721988
+spin gap	1164	3.50553556163
+square lattice	3805	3.45653206967
+bose einstein condensates	4162	3.45265504932
+einstein condensates	4164	3.45259361808
+insulator transition	3065	3.42013565325
+quantum monte	3522	3.40775791499
+quantum monte carlo	3518	3.40380046005
+finite size scaling	2598	3.40022830679
+bethe ansatz	3051	3.38994217675
+random matrix	4269	3.34907879547
+dimensional electron	3389	3.33211241842
+tight binding	4033	3.31773091709
+universality class	2923	3.31573617978
+trapped bose	683	3.28416769203
+metal insulator	2781	3.26984479557
+critical behavior	2868	3.26256126128
+exact diagonalization	2011	3.24848800933
+bose einstein condensate	4737	3.24427221505
+electron phonon	4153	3.22791002876
+einstein condensate	4741	3.20560972913
+fractional quantum hall effect	867	3.20259385365
+heisenberg model	2187	3.19507827313
+quantum spin	3943	3.18994611098
+quantum wells	2062	3.16449323109
+spin chain	3602	3.16134984407
+transfer matrix	2187	3.16114433527
+size scaling	2734	3.16001788606
+lattice model	2203	3.15724003405
+high temperature superconductors	1107	3.12402531354
+metal insulator transition	2115	3.12359234333
+range order	1877	3.12083216885
+temperature superconductors	1148	3.12082924727
+xy model	1385	3.10581390573
+spin glasses	1439	3.10252410387
+gross pitaevskii	2224	3.09693651951
+spin peierls	608	3.08871121166
+dimensional ising	1217	3.0454612279
+transition temperature	4486	3.04376559749
+matrix renormalization	1936	3.0129432697
+high t_c	1368	3.00889080195
+long range order	1476	2.99871029818
+pitaevskii equation	1359	2.99691489886
+gross pitaevskii equation	1358	2.99691489886
+spin chains	2396	2.9958865437
+resonant tunneling	758	2.99561642577
+dimensional electron gas	1731	2.99088457512
+electron gas	3353	2.9887873104
+disordered systems	1146	2.98746351498
+matrix renormalization group	1870	2.97855191623
+lattice gas	1101	2.97583423445
+random potential	868	2.97553023483
+density matrix renormalization	1846	2.97032341943
+localization length	948	2.96807858636
+kosterlitz thouless	1168	2.96488659815
+landau level	2606	2.9628315292
+heisenberg antiferromagnet	861	2.95751723359
+density matrix renormalization group	1798	2.94338322247
+half filled	1201	2.93869346325
+exclusion statistics	326	2.93442745468
+excitation spectrum	1565	2.93434407835
+normal state	2503	2.9327013677
+heisenberg chain	731	2.92893504632
+glass transition	2173	2.92648916368
+aharonov bohm	2443	2.92248531288
+dimensional quantum	3371	2.91380562831
+dimensional hubbard	920	2.91081704034
+structure factor	1776	2.90705911483
+anderson model	1775	2.90629307662
+coulomb interaction	3193	2.90582110754
+composite fermion	593	2.90304108359
+interacting electrons	843	2.89331148707
+persistent current	729	2.88951420766
+composite fermions	690	2.88729142743
+ising models	817	2.87875789233
+josephson junction	2038	2.87182401568
+cond mat	930	2.86549020026
+ising spin	1224	2.86520182562
+random matrix theory	1950	2.86366160177
+quantum wires	1053	2.8630499418
+dimensional hubbard model	814	2.85350743765
+wigner crystal	577	2.85315922561
+charge density wave	1831	2.84363307981
+channel kondo	424	2.82339282538
+potts model	1739	2.81391608397
+neutron scattering	3367	2.81283909166
+spin relaxation	2587	2.81121134661
+triangular lattice	2258	2.80489428344
+spin polarized	3093	2.79943825982
+hall states	1167	2.79846467347
+directed percolation	613	2.78150625314
+electron hole	2191	2.77772074324
+spin charge	978	2.77157276992
+critical exponent	1995	2.76803274089
+antiferromagnetic heisenberg	557	2.75447238801
+phase ordering	316	2.7419524021
+weak localization	798	2.73800122144
+quantum wire	978	2.73796945766
+density wave	4531	2.7322992238
+ground state energy	2303	2.73204857683
+trapped bose einstein	374	2.72727681261
+spin systems	2401	2.72279904171
+charge density	4402	2.71782134832
+calogero sutherland	469	2.71627214413
+integer quantum	799	2.7141530313
+kondo lattice	953	2.7069167507
+luttinger liquids	492	2.70501856422
+correlation length	3167	2.7045118432
+integer quantum hall	771	2.70402223904
+electron electron	3074	2.70243775755
+replica symmetry	801	2.70067647566
+spectral weight	1503	2.70055682575
+glass phase	813	2.6999152595
+van hove	828	2.69875840866
+state energy	2645	2.68978453169
+kondo model	577	2.68872848313
+bose einstein condensation	2074	2.68812682532
+einstein condensation	2079	2.68800967726
+ground state properties	1235	2.68601326045
+dimensional disordered	446	2.68549921899
+diffusion limited	536	2.68332486504
+level statistics	363	2.68200217365
+quenched disorder	922	2.67891336043
+phonon coupling	2182	2.6764650031
+edge states	2882	2.67637932664
+state potts	860	2.67591176015
+exchange coupling	1192	2.67485421923
+quantum hall states	1048	2.67073096609
+electron systems	1878	2.67042546351
+sutherland model	425	2.66999600687
+random matrices	2404	2.6642305609
+correlated electrons	490	2.65814704204
+magnetic susceptibility	2296	2.65759494177
+optical conductivity	1683	2.65428486738
+phase separation	2876	2.65312937375
+impurity scattering	899	2.64855772997
+spin liquid	2370	2.64841095942
+universality classes	801	2.64410676429
+hubbard models	528	2.64384975304
+antiferromagnetic spin	778	2.63902870062
+hard core	1709	2.63385806611

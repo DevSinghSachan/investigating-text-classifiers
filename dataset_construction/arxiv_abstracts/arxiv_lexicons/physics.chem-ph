@@ -1,0 +1,150 @@
+coupled cluster	1010	3.74383237134
+chem phys	718	3.67899477197
+exchange correlation	1115	3.46301757013
+kohn sham	1127	3.37649301404
+kcal mol	151	3.31475931719
+configuration interaction	918	3.31471323358
+potential energy	2844	3.24798558066
+correlation energy	657	3.24358485572
+energy surfaces	459	3.17427975663
+potential energy surfaces	330	3.16136079928
+quantum chemistry	496	3.12523944174
+energy surface	758	3.10423823638
+potential energy surface	424	3.09465090762
+dynamics simulations	3064	3.06206209706
+molecular systems	492	3.05757929521
+time dependent density functional	783	3.03455163042
+dependent density functional	788	3.03384882632
+molecular dynamics simulations	2543	3.03284011022
+range separated	126	3.03079571707
+basis set	838	3.02860054746
+basis sets	441	2.98158322652
+quantum monte carlo	3518	2.96916533349
+quantum monte	3522	2.96902937995
+hydrogen bond	263	2.96419899088
+dependent density functional theory	701	2.94151748587
+active space	143	2.9253142706
+electronic states	1643	2.90819237192
+quantum chemical	316	2.89451563714
+charge transfer	2225	2.89265040352
+water molecules	515	2.87636316203
+density functionals	533	2.84978375356
+time dependent density	1049	2.8211755777
+dependent density	1153	2.80899901708
+electron transfer	447	2.77996831251
+electron correlation	808	2.77813228365
+born oppenheimer	584	2.7570569857
+liquid water	537	2.71210207116
+surface hopping	90	2.70689374242
+density functional theory dft	1176	2.67268445953
+functional theory dft	1176	2.67268445953
+quantum dynamics	2780	2.66872175864
+theory dft	1235	2.66750709511
+atomization energies	82	2.65845237749
+free energies	1011	2.65431277935
+ab initio molecular	302	2.6277597274
+open shell	298	2.62768207609
+initio molecular	303	2.6274008653
+ring polymer	130	2.62512150246
+quasi chemical	77	2.62223762916
+chemical reactions	693	2.61952703028
+lennard jones	1337	2.59846279732
+light harvesting	319	2.59249715816
+ab initio molecular dynamics	277	2.59100496291
+initio molecular dynamics	278	2.59061907945
+vibrational energy	148	2.58117692719
+hartree fock	4122	2.57951088823
+exact exchange	283	2.56656895554
+chemical reaction	717	2.56141513364
+correlation functional	227	2.55794103811
+energy transfer	2177	2.55329251027
+transition state	399	2.54281097438
+excited states	4003	2.53231112407
+computational cost	2040	2.52412578314
+quantum classical	810	2.51394174043
+molecular orbitals	295	2.50765679702
+diffusion monte	433	2.50749569582
+diffusion monte carlo	432	2.49214378252
+diatomic molecules	420	2.47948094887
+interaction energies	242	2.47233449978
+density matrix renormalization	1846	2.46619112397
+energy curves	181	2.46518424642
+matrix renormalization	1936	2.46184739463
+density matrix renormalization group	1798	2.45481241547
+matrix renormalization group	1870	2.45130763344
+double hybrid	52	2.44153957606
+force fields	277	2.43535181754
+electron attachment	60	2.43318726593
+polyatomic molecules	96	2.43229233003
+hydrogen bonds	295	2.42617917841
+excited state	2719	2.41874266104
+van der waals	2528	2.40175282461
+der waals	2533	2.401475906
+cluster theory	216	2.39918546439
+range separation	49	2.39159640827
+potential energy curves	130	2.39006220042
+small molecules	173	2.38746501015
+aqueous solution	183	2.38679891989
+mixed quantum classical	87	2.38151253269
+transition metal	2386	2.37584001578
+kj mol	87	2.36978110102
+electron density	2806	2.36965134168
+electronic structure calculations	931	2.36884150239
+polar molecules	588	2.36695104339
+multi reference	147	2.36665505619
+meta gga	96	2.36519810979
+time resolved	2368	2.35210413484
+rate constants	259	2.34807278667
+hybrid density	163	2.33627390186
+nuclear spin	2183	2.33367431028
+coupled cluster theory	184	2.33256638
+reduced density matrix	888	2.33146370306
+al chem	150	2.33091659954
+van der	3413	2.3252579941
+vibrational spectra	154	2.32208843161
+hydrogen bonding	181	2.32172582448
+rate constant	226	2.319980965
+carbon dioxide	275	2.31498623271
+correlation energies	176	2.30811295385
+complete active	55	2.30764331991
+adiabatic connection	88	2.30681577029
+al chem phys	144	2.30672072443
+room temperature	3919	2.30489628421
+nuclear motion	103	2.29527485498
+complete active space	54	2.28973318465
+reduced density	1372	2.28832020891
+hydrogen bonded	152	2.2878816184
+excitation energies	955	2.28622545492
+ab initio calculations	1305	2.28615247852
+initio calculations	1309	2.28581611672
+td dft	74	2.28458367767
+nuclear quantum	114	2.28386444451
+mixed quantum	384	2.28320183301
+_2 _2	560	2.28128237081
+electronic state	404	2.27772657653
+single molecule	1516	2.27303966366
+random phase approximation	1880	2.27213681546
+correlation potential	205	2.26599950756
+correlation effects	1364	2.26549352665
+generalized gradient	537	2.26491122153
+static correlation	128	2.26166277852
+transition state theory	137	2.25811076512
+ionization potentials	159	2.25337792575
+force field	652	2.25276182054
+density approximation	1609	2.24693489892
+local density approximation	1284	2.23796555402
+vibrational levels	207	2.23346772234
+exchange correlation functional	179	2.22498937237
+reaction coordinate	159	2.22485316196
+symmetry adapted	131	2.22231836678
+functional approximations	65	2.22059790281
+excitation energy transfer	81	2.2127772591
+organic molecules	463	2.21248518968
+hybrid functionals	159	2.21062076343
+phase approximation	1995	2.20949222909
+qm mm	60	2.20801293689
+density functional approximations	53	2.20790549135
+nuclear dynamics	244	2.19962846056
+correlation functionals	191	2.19639073767
+polymer molecular	56	2.19143688604
+phys chem	143	2.19080313783

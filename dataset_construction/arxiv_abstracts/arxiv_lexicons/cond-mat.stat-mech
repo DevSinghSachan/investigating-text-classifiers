@@ -1,0 +1,150 @@
+universality class	2923	4.74207854731
+critical exponents	3454	4.68310036453
+potts model	1739	4.60086235975
+critical behavior	2868	4.53073814974
+square lattice	3805	4.49951252618
+statistical mechanics	4349	4.44209123087
+finite size scaling	2598	4.43825789607
+exclusion process	1051	4.30735225425
+fluctuation theorem	615	4.27553628906
+dimensional ising	1217	4.24646738636
+size scaling	2734	4.21958792222
+lattice gas	1101	4.21360699367
+scale free	3443	4.17837492737
+directed percolation	613	4.1441436569
+glass transition	2173	4.12523386106
+state potts	860	4.08079437682
+spin glass	3737	4.06360814641
+xy model	1385	4.0355565411
+transfer matrix	2187	4.02744981847
+entropy production	1970	4.00587684359
+bose gas	2751	4.0027368807
+steady states	1662	3.98753356048
+bethe ansatz	3051	3.96849285274
+thermodynamic limit	2898	3.96748084887
+spin chain	3602	3.95841846398
+langevin equation	1403	3.95509908826
+dimensional ising model	714	3.94998891162
+kardar parisi	535	3.91910965645
+parisi zhang	532	3.90899923797
+kardar parisi zhang	528	3.90657068505
+complex networks	2813	3.90362990599
+hard core	1709	3.90049641989
+anomalous diffusion	943	3.88319844384
+brownian particle	573	3.87775307377
+scale free networks	1251	3.87251077574
+free networks	1261	3.87123666728
+stationary state	1441	3.86385653509
+lennard jones	1337	3.85009042242
+random walks	4411	3.81904264599
+nonequilibrium steady	504	3.81574971231
+passage time	923	3.81350644522
+large deviation	1903	3.80092973072
+fluctuation theorems	338	3.78867232583
+heat bath	1085	3.77382890685
+fluctuation dissipation	1381	3.76579596228
+small world	1527	3.75324348777
+state potts model	586	3.74967762581
+fokker planck	2812	3.74329257109
+hard sphere	1306	3.73671777247
+quantum spin	3943	3.7352055549
+simple exclusion	605	3.73515984466
+dynamics simulations	3064	3.72883753093
+universality classes	801	3.72721747783
+spin chains	2396	3.72640167667
+contact process	630	3.72431312028
+triangular lattice	2258	3.72078252114
+hard spheres	1063	3.71715487474
+ising models	817	3.71503623003
+spin systems	2401	3.71428292832
+continuous time	4084	3.70282384769
+degree distribution	1662	3.68871233828
+stationary states	1149	3.67964663253
+field ising	980	3.67792404324
+asymmetric exclusion	386	3.67338528134
+molecular dynamics simulations	2543	3.67150611456
+reaction diffusion	2492	3.66439276975
+critical behaviour	844	3.65205111218
+lattice models	1377	3.64686389315
+heisenberg model	2187	3.64493444644
+entanglement entropy	3834	3.63883850435
+order phase	4538	3.62945381837
+lattice model	2203	3.62163993007
+cond mat	930	3.61906518636
+heat conduction	968	3.61522904262
+random graphs	2102	3.60412062575
+diffusion limited	536	3.60373850928
+spin models	1301	3.59957758267
+critical exponent	1995	3.58304571716
+dimensional lattice	1917	3.57003578532
+spin ising	352	3.56474769683
+equilibrium steady	510	3.56430159495
+transverse field	1406	3.56283044177
+simple exclusion process	494	3.55924242618
+ising chain	543	3.55805373545
+time random	624	3.55649317243
+range interactions	2323	3.54815701367
+vertex model	895	3.54095473484
+wang landau	325	3.53118987838
+spin model	1404	3.53063759973
+brownian particles	601	3.53024661804
+kosterlitz thouless	1168	3.52672215579
+asymmetric simple exclusion	436	3.52644199316
+jarzynski equality	279	3.51408085809
+totally asymmetric	391	3.50498444459
+granular gas	360	3.50246708866
+field ising model	727	3.49902233251
+continuous time random	498	3.49674898911
+order transition	2008	3.49275533336
+ising spin	1224	3.49068100102
+canonical ensemble	1471	3.49064172901
+correlation length	3167	3.47560695437
+asymmetric simple	443	3.47444387178
+asymmetric exclusion process	287	3.47347507922
+quenched disorder	922	3.46281122922
+energy landscape	1133	3.45853212211
+scaling analysis	1055	3.45155584198
+scaling functions	730	3.4498068766
+long range interactions	1477	3.43390892488
+range order	1877	3.4320923842
+mode coupling	1504	3.4319039584
+random matrix	4269	3.41389517631
+random field	2284	3.40489385157
+nonequilibrium systems	261	3.40404918231
+absorbing state	296	3.40143858219
+master equation	3832	3.38931502508
+asymmetric simple exclusion process	382	3.38723545836
+stochastic dynamics	776	3.37744569403
+absorbing states	254	3.37627089772
+fokker planck equation	1525	3.37609420129
+planck equation	1540	3.37463573629
+exact results	2233	3.37081255782
+stochastic resonance	645	3.36649726754
+critical dimension	714	3.35741652324
+sandpile model	350	3.35676199339
+2d ising	427	3.35622548917
+avoiding walks	440	3.35539802536
+stochastic thermodynamics	186	3.34906030726
+fluctuation relations	243	3.33107673791
+structure factor	1776	3.31994653014
+diffusion coefficient	2325	3.31710531994
+matrix product	1383	3.31530758303
+scaling function	959	3.31507893521
+mode coupling theory	615	3.31501410745
+potts models	427	3.31181605398
+traffic flow	670	3.31125996913
+tsallis entropy	416	3.30773103247
+quantum monte carlo	3518	3.30738902149
+driven diffusive	188	3.30736289099
+quantum monte	3522	3.3072437979
+probability density	3134	3.30303338635
+bond percolation	520	3.30247984552
+nonequilibrium phase	280	3.30024922128
+spin ice	785	3.2954069465
+detailed balance	1017	3.28725372171
+nonequilibrium steady states	228	3.28323028004
+cellular automaton	755	3.28053102911
+size scaling analysis	554	3.27866141074
+order phase transition	3272	3.27703607521
+finite size scaling analysis	548	3.27378850362
+time limit	885	3.27297696111

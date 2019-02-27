@@ -1,0 +1,150 @@
+low rank	3069	3.23625937361
+floating point	416	2.71172269312
+finite element	4267	2.36439984547
+linear systems	1998	2.3567435715
+matrix completion	721	2.26562322181
+matrix factorization	854	2.26107224625
+domain decomposition	491	2.25709162151
+interval arithmetic	64	2.19402021573
+numerical experiments	3745	2.1604771956
+rank matrix	710	2.11034944889
+rank approximation	416	2.09560893373
+tensor train	91	2.0773085826
+kaczmarz algorithm	56	2.0714766183
+low rank matrix	619	2.06538312543
+low rank approximation	299	2.04625473664
+signal processing	1631	2.02127438385
+reduced order	452	2.01039149779
+condition number	527	1.98786989961
+tensor completion	119	1.98394233957
+optimization problems	2811	1.97964919281
+sparse matrices	222	1.96017744862
+tensor decompositions	95	1.9340239751
+fast multipole	163	1.87850023627
+point numbers	51	1.85639404565
+maximum principles	157	1.85495685854
+nonnegative matrix	319	1.85223569604
+time step	1706	1.84259533019
+newton method	624	1.83088590714
+splitting schemes	99	1.8121046523
+nonnegative matrix factorization	201	1.80749168712
+inverse problems	1309	1.79694313969
+conjugate gradient	500	1.79124980776
+tensor decomposition	240	1.79107711774
+computational complexity	3001	1.78598898619
+matrix multiplication	572	1.77746962985
+fast multipole method	107	1.77472516354
+difference schemes	288	1.77420614786
+multipole method	129	1.76706061659
+low rank tensor	138	1.75949456044
+sparse linear	329	1.75702869363
+cp decomposition	43	1.75175337368
+element method	1806	1.74859505339
+boundary element	300	1.74539209012
+sparse linear systems	51	1.74344336796
+iterative methods	361	1.74322639652
+floating point arithmetic	67	1.74160610985
+point arithmetic	78	1.73526939745
+optimization problem	3820	1.7316920183
+sparse matrix	320	1.70214617797
+fast algorithms	303	1.70033486335
+nuclear norm	470	1.69600397948
+fixed point iteration	94	1.69599654421
+point iteration	96	1.6946846351
+unconditionally stable	162	1.6869952901
+convection diffusion	345	1.68243957636
+proposed algorithms	853	1.6743163796
+gradient method	546	1.6682447703
+exterior calculus	143	1.66619337853
+convex optimization	1989	1.66427071114
+power method	132	1.65857423425
+approximate matrix	47	1.65830550839
+matrix vector	258	1.65510461215
+input matrix	111	1.64697823692
+randomized kaczmarz	50	1.64456001815
+tensor factorization	148	1.63096862024
+error bounds	993	1.63039621159
+primal dual	659	1.62186056391
+data assimilation	481	1.62121828508
+gauss seidel	159	1.62108997064
+large sparse	156	1.61331013329
+finite element method	1309	1.61111252788
+iteration algorithm	111	1.60658350129
+square wave	79	1.60615656943
+solving linear	369	1.60494068029
+fast marching	72	1.58249953825
+tensor networks	265	1.58246436594
+large scale optimization	78	1.58012863959
+solution set	246	1.5800383617
+scale optimization	85	1.5765758736
+finite elements	631	1.5730268365
+big data	1208	1.56943277904
+completion problem	170	1.56115427545
+mixed finite	286	1.55262084266
+matrix approximation	295	1.55202826068
+linear convergence	388	1.55114469312
+numerical examples	2458	1.54871514877
+global convergence	319	1.54162148408
+time level	45	1.53093115078
+order tensors	125	1.5304975691
+rank tensor	357	1.52938428732
+reduced order models	113	1.52873745118
+alternating direction	551	1.52648477817
+driven cavity	120	1.52534809132
+squares estimator	220	1.52529409777
+fast fourier transform	388	1.52002541352
+compressed sensing	1799	1.51971946339
+alternating direction method	455	1.51745593499
+diagonally dominant	84	1.5167983907
+direction method	479	1.51491686107
+elliptic operator	366	1.51428452455
+linear algebra	1096	1.51245024547
+step size	754	1.51190098533
+low rank structure	80	1.5102123123
+krylov subspace	319	1.50931779759
+matrix decomposition	144	1.5090282676
+dimensionality reduction	669	1.50871448258
+fast fourier	527	1.50554370083
+qr factorization	69	1.50457035363
+rank structure	96	1.50367644358
+differential algebraic equations	98	1.50040539387
+tucker decomposition	46	1.49860620029
+block wise	65	1.49432225817
+solving systems	114	1.49418011528
+parabolic equation	518	1.48813547276
+tensor network	677	1.48754417011
+convergence rate	2083	1.48240449984
+porous media	910	1.48003132337
+boundary element method	183	1.47875864256
+polynomial approximation	270	1.47762968746
+mixed finite element	214	1.47464964085
+gaussian elimination	132	1.47009158407
+element formulation	71	1.46858016689
+faster convergence	277	1.46833887952
+solving large	211	1.46519455832
+differential algebraic	272	1.46373802574
+driven cavity flow	43	1.46316918415
+order methods	293	1.45364353066
+l1 norm	203	1.45259026334
+mixed formulation	60	1.45080134549
+matrix free	82	1.44918641174
+cavity flow	70	1.44860936139
+newton iteration	94	1.44727492127
+isogeometric analysis	97	1.4471795219
+explicit schemes	65	1.44582764482
+kronecker product	210	1.44537574917
+method fmm	43	1.44521883506
+computational cost	2040	1.44318734732
+matrix product	1383	1.44302165342
+low rank matrix approximation	46	1.44238457075
+rank matrix approximation	46	1.44238457075
+double precision	120	1.44032458783
+order models	213	1.43988145988
+computational framework	236	1.43779589364
+gradient descent	1238	1.43768620277
+parallel algorithm	305	1.43604520156
+lu factorization	46	1.43108026685
+error bound	529	1.42793079158
+coordinate descent	485	1.42557566077
+quasi newton	249	1.42511702189
+nonnegative tensor	44	1.42329511843

@@ -1,0 +1,150 @@
+spin glass	3737	5.61316483219
+spin glasses	1439	5.03841552855
+ising spin	1224	4.60401693459
+glass transition	2173	4.4638059781
+replica symmetry	801	4.42346038169
+replica symmetry breaking	641	4.26751090242
+disordered systems	1146	4.26468203647
+ising spin glass	541	4.1732881957
+anderson localization	1175	4.13925645152
+glass model	591	4.08335361062
+localization length	948	3.97621277865
+field ising	980	3.96407481842
+glass phase	813	3.96285314102
+scale free	3443	3.94795059317
+small world	1527	3.94732978781
+random field	2284	3.91786468334
+spin glass model	461	3.88798720604
+random field ising	518	3.789462656
+strong disorder	699	3.78018634122
+anderson model	1775	3.76635223447
+complex networks	2813	3.74902341867
+sherrington kirkpatrick	395	3.73412798206
+insulator transition	3065	3.7126789037
+ising spin glasses	241	3.70761070267
+edwards anderson	334	3.70371949776
+field ising model	727	3.67151327326
+free networks	1261	3.66754933095
+scale free networks	1251	3.66499787114
+body localization	414	3.66127574851
+critical exponents	3454	3.65539593214
+metal insulator	2781	3.61912623414
+spin glass phase	380	3.61630871097
+anderson transition	313	3.5980340648
+critical behavior	2868	3.58376822293
+random field ising model	439	3.58205591257
+degree distribution	1662	3.56462240664
+metal insulator transition	2115	3.55003145853
+finite size scaling	2598	3.54187624279
+replica symmetric	313	3.53857652363
+random graphs	2102	3.53386601547
+quenched disorder	922	3.52770275321
+glass models	322	3.50331921953
+spin glass models	272	3.44693034006
+dimensional disordered	446	3.42973060734
+universality class	2923	3.41075768741
+random potential	868	3.400550318
+localization transition	374	3.3663380325
+dimensional ising	1217	3.35417841116
+dimensional random	859	3.34932684567
+size scaling	2734	3.34707788804
+weak disorder	626	3.30839640548
+world networks	1122	3.2926045783
+diagonal disorder	230	3.26945601584
+kirkpatrick model	231	3.26480783488
+sherrington kirkpatrick model	230	3.25451489117
+body localized	261	3.25354613591
+tight binding	4033	3.24881593932
+random networks	728	3.24782605147
+correlated disorder	309	3.24659709955
+dimensional ising spin	180	3.2430163977
+neural network	4447	3.23033493472
+random matrix	4269	3.22611160637
+cavity method	235	3.19656160583
+disorder strength	571	3.19025681157
+replica method	335	3.1693821678
+mobility edge	284	3.16388867262
+field spin	390	3.1522465154
+small world networks	460	3.15139083048
+glassy systems	314	3.14559044541
+critical exponent	1995	3.14237233524
+energy landscape	1133	3.13854179942
+real space renormalization	370	3.11921373209
+space renormalization	417	3.1164865982
+localized states	1007	3.10909372503
+percolation threshold	682	3.06192791331
+glass forming	587	3.06013220315
+random media	482	3.04276301539
+spin glass transition	206	3.0421717103
+heisenberg spin	818	3.03449899406
+random bond	303	3.03113956393
+transverse field	1406	3.02339534888
+weak localization	798	3.00438654704
+boson peak	241	2.99422520073
+network model	1290	2.97683266052
+dimensional anderson	163	2.97561602297
+level statistics	363	2.97547459989
+heisenberg spin glass	113	2.97155829348
+step replica symmetry	155	2.96435261819
+step replica	157	2.96305665419
+disorder induced	622	2.9614190538
+delocalization transition	249	2.95613149478
+supercooled liquids	398	2.95584825018
+random energy	299	2.95391632627
+random matrices	2404	2.94899907113
+thermodynamic limit	2898	2.93939338312
+correlation length	3167	2.93376975472
+storage capacity	281	2.93277861905
+scaling analysis	1055	2.92947074786
+square lattice	3805	2.92588844998
+mode coupling	1504	2.91941334362
+spin systems	2401	2.90583603356
+disordered media	284	2.89282366131
+directed polymer	268	2.88603640785
+almeida thouless	99	2.88127955433
+mode coupling theory	615	2.87035959629
+localized phase	260	2.86988761016
+field spin glass	114	2.86896149731
+step replica symmetry breaking	141	2.86790442566
+quantum annealing	492	2.86690392021
+bethe lattice	431	2.86452992556
+parameter scaling	252	2.86118703341
+spin models	1301	2.86010724412
+glassy phase	214	2.85322436354
+random energy model	200	2.85183680161
+cond mat	930	2.84125380608
+minority game	291	2.83808888195
+range correlated	278	2.83742191043
+real space	2875	2.83058355864
+critical dimension	714	2.82742021068
+temperature chaos	66	2.82488730996
+dimensional spin	1171	2.81782529195
+transition temperature	4486	2.81781015153
+transfer matrix	2187	2.81484006803
+finite size scaling analysis	548	2.81375258596
+size scaling analysis	554	2.81261363072
+associative memory	197	2.81258379164
+dimensional ising spin glass	100	2.80907484301
+edwards anderson model	97	2.80904804007
+extended states	326	2.8085008801
+localization delocalization	234	2.80829429236
+level spacing	739	2.80444835183
+coulomb glass	87	2.79183218877
+infinite range	425	2.79171706705
+range order	1877	2.78818093617
+coupling theory	806	2.78033815614
+random medium	309	2.77833080539
+range hopping	396	2.77088847368
+degree distributions	596	2.76071823723
+disorder renormalization	108	2.75797984535
+bose glass	396	2.75564089751
+boolean networks	368	2.75154337658
+potts model	1739	2.73720083059
+long range correlated	191	2.73707118545
+spin chains	2396	2.73622444565
+lennard jones	1337	2.73447800166
+strong disorder renormalization	103	2.73337317893
+hopfield model	159	2.73017830331
+spin model	1404	2.72537930859
+random anisotropy	102	2.723367763
+finite connectivity	93	2.72152947084

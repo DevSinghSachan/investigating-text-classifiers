@@ -1,0 +1,150 @@
+markov chain	4855	3.74856542372
+sequential monte carlo	382	3.61320700868
+sequential monte	382	3.61320700868
+chain monte carlo	2110	3.61224244456
+chain monte	2112	3.61218017976
+markov chain monte carlo	2081	3.59711764091
+markov chain monte	2083	3.59705502938
+importance sampling	831	3.40040696966
+bayesian computation	306	3.39527125326
+approximate bayesian	376	3.36878239308
+bayesian inference	1316	3.25699430729
+approximate bayesian computation	263	3.24221048329
+metropolis hastings	449	3.12593692362
+particle filter	379	3.10270063978
+state space	3761	3.07854754168
+posterior distribution	1015	3.07174380721
+state space models	308	3.01584527576
+maximum likelihood	4565	2.88250675606
+carlo mcmc	587	2.88197878014
+em algorithm	576	2.8815452188
+chain monte carlo mcmc	582	2.87502091824
+monte carlo mcmc	584	2.87466650011
+gaussian process	1563	2.86676003558
+variable selection	1092	2.73112673315
+real data	2617	2.71761708966
+target distribution	247	2.68458552125
+particle filters	186	2.63534928074
+hamiltonian monte	174	2.63076675868
+hamiltonian monte carlo	174	2.63076675868
+sequential monte carlo smc	90	2.62213612813
+monte carlo smc	93	2.61958415717
+carlo smc	93	2.61958415717
+likelihood estimation	748	2.61469111989
+space models	414	2.60296794863
+computational cost	2040	2.57435828774
+mcmc algorithms	155	2.57094394901
+computation abc	124	2.55418993066
+approximate bayesian computation abc	124	2.55418993066
+bayesian computation abc	124	2.55418993066
+summary statistics	230	2.54006453139
+marginal likelihood	291	2.5367075351
+gibbs sampling	390	2.50767560822
+regression models	914	2.50702292644
+mixture models	670	2.4696350338
+parameter estimation	2355	2.45497671012
+model selection	2055	2.45096599719
+maximum likelihood estimation	633	2.44349473305
+mcmc methods	191	2.43569045835
+polynomial chaos	202	2.42587093951
+posterior distributions	394	2.4159464922
+gibbs sampler	265	2.40381215058
+likelihood function	741	2.32761888533
+big data	1208	2.31940629509
+hidden markov	1048	2.31637182077
+markov models	709	2.29635145789
+smc methods	45	2.28938802555
+logistic regression	717	2.28904449232
+monte carlo methods	1231	2.28770644961
+carlo methods	1232	2.28760573813
+simulation study	1557	2.26771757612
+linear models	1071	2.24603620358
+linear mixed	250	2.23329452092
+log likelihood	606	2.23252159128
+nested sampling	184	2.21319807488
+inverse problems	1309	2.21318685713
+slice sampling	58	2.20581034135
+likelihood free	86	2.19040598576
+laplace approximation	107	2.18801138148
+generalized linear	607	2.18283430876
+pseudo marginal	76	2.18124962806
+markov random	552	2.1754475641
+model based clustering	156	2.16158322227
+bayesian model	742	2.15967828733
+mcmc algorithm	180	2.15490162665
+hidden markov models	494	2.15442003113
+markov chains	2200	2.14669702576
+expectation maximization	534	2.14460839022
+proposal distribution	96	2.14360610472
+sequential monte carlo methods	69	2.14340279967
+uncertainty quantification	334	2.13058045555
+hastings algorithm	114	2.11588031617
+stochastic volatility	581	2.11205901806
+computationally efficient	1392	2.11184218572
+based clustering	303	2.10767115829
+composite likelihood	133	2.10766404681
+random effects	428	2.10541776284
+variational bayes	179	2.09885513049
+parameter inference	153	2.09345282703
+quasi monte carlo	256	2.09279264021
+quasi monte	257	2.09279264021
+rejection sampling	88	2.09045024991
+simulation studies	1145	2.07947832828
+density estimation	733	2.0774841352
+regression model	901	2.07704066915
+fused lasso	121	2.07360737202
+sampling scheme	253	2.07355933554
+proposed algorithm	2485	2.07288380534
+chaos expansions	81	2.06681022538
+control variates	53	2.06126180916
+particle markov chain monte	54	2.06036020003
+particle markov chain	56	2.05903979311
+mixture model	628	2.05859402794
+random walk metropolis	68	2.05801382048
+walk metropolis	68	2.05801382048
+particle markov	58	2.05647626014
+sample size	2109	2.05033653884
+random fields	1723	2.04756655905
+particle filtering	130	2.04548775581
+high dimensions	698	2.03829098603
+metropolis hastings algorithm	112	2.03679927274
+optimal designs	282	2.03661842521
+mcmc sampling	110	2.0363281511
+variance reduction	290	2.02991790397
+bayesian analysis	706	2.02902517424
+computational efficiency	799	2.02322895754
+sampling algorithms	201	2.01646137959
+state space model	163	2.01093059588
+polynomial chaos expansions	69	1.99703628701
+acceptance probability	72	1.98800865231
+model choice	97	1.98800204275
+target distributions	85	1.98372067707
+markov jump	166	1.98008822654
+multivariate normal	267	1.9732672736
+nonlinear state	69	1.96513013856
+simulated data	1365	1.96234912638
+posterior density	109	1.96012130259
+mcmc method	140	1.94256940063
+exponential family	445	1.94097097119
+numerical examples	2458	1.93748131831
+approximate posterior	73	1.93318518031
+graphical models	1015	1.9293277317
+true posterior	55	1.92705176353
+reversible jump	86	1.91451197535
+data augmentation	244	1.9144825476
+bayesian estimation	250	1.9071862013
+approximate inference	227	1.90401620267
+multilevel monte	157	1.89825911449
+data examples	205	1.89768968581
+continuous time	4084	1.89617363328
+bayesian approach	924	1.89549015128
+rare event	358	1.89468248737
+asymptotic variance	270	1.89336908927
+linear regression	1261	1.89277067134
+objective function	1807	1.89164803969
+quantile regression	352	1.89034449893
+gaussian processes	1065	1.88964279228
+latent variables	415	1.88551970639
+low rank	3069	1.88496961112
+gibbs samplers	56	1.87469263784
+stochastic approximation	435	1.87417084326

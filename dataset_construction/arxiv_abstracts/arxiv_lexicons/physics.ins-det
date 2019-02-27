@@ -1,0 +1,150 @@
+liquid argon	693	4.30044042833
+energy resolution	1311	4.19548723586
+time projection	607	3.98513845411
+pixel detector	326	3.88434242975
+double beta	3080	3.83778232854
+linear collider	2226	3.79469268655
+double beta decay	2783	3.77865838234
+pixel sensors	186	3.75597901386
+time projection chamber	474	3.73721111614
+projection chamber	475	3.73695636985
+beta decay	4696	3.72087722602
+liquid scintillator	435	3.69227582271
+test beam	239	3.67091292337
+scintillation light	275	3.55785432452
+resistive plate	151	3.55136797181
+data acquisition	669	3.52820926649
+spatial resolution	3509	3.52312500483
+vertex detector	211	3.5138825679
+neutrinoless double	2053	3.49504887602
+neutrinoless double beta	1986	3.48734946828
+liquid xenon	370	3.47064578385
+neutrinoless double beta decay	1853	3.45383020492
+low background	572	3.44549685202
+electromagnetic calorimeter	319	3.43846172704
+detection efficiency	868	3.41805681806
+hl lhc	225	3.40216532212
+international linear	553	3.37541406287
+international linear collider	548	3.36924964046
+light yield	222	3.35374129252
+time resolution	935	3.34914332118
+charge collection	146	3.32563961508
+silicon photomultipliers	147	3.31785989495
+photomultiplier tubes	220	3.30553758234
+beam test	149	3.27264622523
+high voltage	324	3.23533688491
+silicon strip	132	3.20826113809
+readout electronics	160	3.16830041395
+level trigger	190	3.14992190535
+argon time	133	3.14695188852
+argon time projection	133	3.14695188852
+particle identification	411	3.13854807741
+gas electron	112	3.12677239986
+liquid argon time projection	131	3.12622068225
+liquid argon time	131	3.12622068225
+nuclear recoils	343	3.10937146451
+resistive plate chambers	89	3.10869663828
+plate chambers	89	3.10869663828
+pulse shape	595	3.1052207346
+data taking	754	3.09782495165
+pixel detectors	149	3.08179762944
+highly granular	72	3.01778802995
+position resolution	135	3.01436311633
+radiation damage	291	3.01175001279
+plastic scintillator	145	3.00296205706
+silicon pixel	104	2.99836347065
+radiation hardness	114	2.98659824803
+electron beam	1738	2.98494182856
+neutron detection	103	2.97274097456
+electron multiplier	89	2.96375634478
+drift tube	90	2.96137413828
+hadron calorimeter	90	2.93972323581
+gem foils	78	2.91977130835
+neutrino experiment	440	2.91975527686
+high luminosity	1590	2.91608649818
+underground laboratory	329	2.90187183089
+triple gem	68	2.89597593711
+hadronic calorimeter	77	2.89559602222
+daya bay	352	2.89445315981
+belle ii	251	2.87967543454
+low noise	612	2.87472300359
+silicon sensors	77	2.86869916561
+argon time projection chamber	100	2.86134674259
+track reconstruction	169	2.85952270719
+atlas pixel	68	2.85872485757
+pixel sensor	60	2.85371516049
+wavelength shifting	84	2.85281440635
+cherenkov detector	266	2.82734599238
+particle flow	217	2.82422420885
+light collection	112	2.82146044209
+atlas experiment	438	2.81640271181
+cms experiment	520	2.81145848301
+time projection chambers	103	2.81143656233
+projection chambers	103	2.81143656233
+muon spectrometer	130	2.80970465352
+detector design	175	2.79259267842
+international linear collider ilc	286	2.77985373374
+linear collider ilc	300	2.77543921406
+future linear	644	2.77323223674
+collider ilc	309	2.77269937871
+radiation hard	61	2.76661528075
+cmos pixel	44	2.76584684097
+gas gain	62	2.76511028875
+interaction point	197	2.76493575589
+test results	275	2.76220439583
+physics experiments	368	2.75301045449
+gas electron multiplier	64	2.74379251004
+gem detector	55	2.74239448659
+chamber tpc	120	2.73568397749
+projection chamber tpc	120	2.73568397749
+time projection chamber tpc	120	2.73568397749
+planar pixel	54	2.73224071497
+photon detection	374	2.73165733739
+active pixel	59	2.73137985616
+collection efficiency	189	2.72717864021
+photomultiplier tube	100	2.7262831433
+beam line	221	2.72142830618
+timing resolution	102	2.71134272463
+dynamic range	1032	2.71129073358
+hadronic showers	123	2.70919417794
+silicon detectors	109	2.70795288074
+fast neutron	113	2.70234406444
+baseline neutrino	612	2.70150964762
+position sensitive	155	2.6942976514
+tracking detector	103	2.69073042921
+neutrino beam	544	2.68891554549
+pulse shape discrimination	124	2.6882203291
+ultra low	660	2.68482906434
+gas mixtures	135	2.68455451508
+room temperature	3919	2.68353164571
+hadron collider	3823	2.68192857108
+germanium detectors	187	2.67674558865
+nai tl	211	2.67257129672
+large area	2264	2.67251232815
+end electronics	96	2.66807676092
+neutron source	234	2.66702979765
+water cherenkov	419	2.6640712968
+atlas muon	54	2.66090568305
+high purity	396	2.65992778983
+high pressure	1558	2.6594320159
+lar tpc	82	2.65820342678
+alpha particles	491	2.65439088532
+shape discrimination	129	2.6516017117
+large hadron	3495	2.64718173488
+large hadron collider	3396	2.64538846291
+phase noise	797	2.64210218608
+silicon photomultiplier	61	2.63896731251
+multi pixel	81	2.63761504824
+detector based	174	2.63327024639
+electron multipliers	49	2.62888472627
+detector performance	213	2.62307258051
+lead tungstate	52	2.61999549025
+beam tests	79	2.61771681324
+xenon gas	74	2.61222396778
+muon beam	207	2.59906289709
+high rate	627	2.59798520545
+atlas detector	1385	2.59211320098
+material budget	51	2.58865349745
+pulse height	77	2.58788499321
+nu beta beta	491	2.58465287431
+gaseous detectors	58	2.57705934335

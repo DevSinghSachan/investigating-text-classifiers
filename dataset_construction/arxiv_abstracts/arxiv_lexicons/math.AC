@@ -1,0 +1,150 @@
+cohen macaulay	1892	5.52642881489
+local ring	868	4.93416373091
+local cohomology	723	4.89371119836
+monomial ideals	567	4.72765309438
+finitely generated	4283	4.66027694852
+polynomial ring	915	4.63903806931
+local rings	489	4.40501902866
+complete intersection	1090	4.39101872812
+cohomology modules	375	4.35517919696
+local cohomology modules	310	4.28605754947
+betti numbers	1356	4.26954951706
+monomial ideal	340	4.24998434332
+noetherian ring	368	4.16001975418
+commutative noetherian	316	4.12669727945
+noetherian local	232	4.03734092219
+projective dimension	363	3.95278768941
+stanley reisner	321	3.89682470705
+edge ideals	190	3.86226910195
+noetherian local ring	171	3.8289645877
+free resolution	304	3.82491500837
+hilbert kunz	182	3.80537332685
+tight closure	165	3.76845366405
+prime ideals	441	3.76839913558
+regular local	224	3.75405913341
+x_1 x_n	904	3.7442536208
+hilbert function	341	3.72784287531
+castelnuovo mumford	281	3.7274260668
+gr obner	623	3.70856573361
+mumford regularity	274	3.70808043281
+castelnuovo mumford regularity	270	3.68926605652
+minimal free	280	3.68860818517
+commutative ring	789	3.67676125212
+stanley depth	143	3.66680651414
+commutative noetherian ring	176	3.65045990381
+finitely generated module	196	3.63811617441
+generated module	201	3.63654724996
+complete intersections	806	3.63116029028
+positive characteristic	1424	3.61215940094
+standard graded	149	3.61142941725
+edge ideal	136	3.60720871912
+maximal ideal	318	3.60214350762
+cohen macaulay modules	228	3.5996090288
+macaulay modules	228	3.5996090288
+polynomial rings	380	3.59483037499
+commutative rings	437	3.55092580979
+rees algebra	143	3.52125208319
+commutative algebra	732	3.51269535484
+generated modules	223	3.50274193926
+gorenstein rings	131	3.49676598739
+macaulay local	111	3.48449164402
+cohen macaulay local	111	3.48449164402
+hilbert functions	194	3.477968052
+finitely generated modules	207	3.47226982338
+free resolutions	202	3.46330653632
+rees algebras	113	3.45884070353
+hilbert series	530	3.45746257963
+squarefree monomial	98	3.44827597796
+simplicial complex	830	3.44041138144
+cohen macaulayness	140	3.43782184657
+lefschetz property	236	3.42936776746
+toric ideals	127	3.40422692323
+regular local ring	132	3.38340881362
+simplicial complexes	826	3.380993867
+minimal free resolution	164	3.38046138251
+graded betti	170	3.3692219861
+graded ring	253	3.35919028198
+integral closure	174	3.34822806415
+binomial edge	91	3.33084375489
+sequentially cohen	112	3.32937053744
+graded betti numbers	154	3.31833010092
+groebner bases	243	3.3179430869
+initial ideals	125	3.28995908013
+residue field	519	3.28213807942
+integrally closed	127	3.27727342375
+sequentially cohen macaulay	106	3.27548485072
+square free	557	3.27266632396
+ideal generated	270	3.25717251756
+algebraically closed	2087	3.23986264469
+symbolic powers	120	3.23193079349
+toric ideal	139	3.22712708107
+macaulay local ring	81	3.22189896121
+cohen macaulay local ring	81	3.22189896121
+numerical semigroups	207	3.21702298218
+ideals generated	124	3.20324799407
+numerical semigroup	132	3.20245091233
+maximal cohen	135	3.18648504476
+hilbert kunz multiplicity	81	3.1800423768
+kunz multiplicity	81	3.1800423768
+hilbert coefficients	64	3.17921052146
+prime ideal	256	3.17484168052
+maximal cohen macaulay	134	3.17219777179
+pr ufer	132	3.16473481336
+integral domain	189	3.1611231785
+gr obner basis	258	3.15859897204
+obner basis	259	3.15814807005
+prime characteristic	219	3.14939538264
+arithmetical rank	63	3.14226202753
+noetherian rings	148	3.13813399717
+gorenstein local	72	3.13275674937
+graded modules	271	3.12822878637
+krull dimension	186	3.12016958313
+cohomology module	98	3.11336583326
+squarefree monomial ideals	65	3.10660436438
+linear resolution	152	3.10112972335
+gorenstein projective	200	3.10035224707
+injective dimension	120	3.09725358646
+graded algebra	497	3.08989631003
+canonical module	91	3.08293161531
+weak lefschetz property	118	3.08160999634
+weak lefschetz	129	3.07970027741
+commutative noetherian local	71	3.07783786788
+graded module	162	3.07672454936
+local cohomology module	78	3.07326699976
+primary ideal	80	3.06163235353
+stanley conjecture	80	3.06031664071
+primary decomposition	106	3.03790579782
+initial ideal	115	3.0375664249
+homogeneous ideal	133	3.03474324571
+x_1 ldots	381	3.01871711398
+gorenstein algebras	115	2.99784725745
+projective modules	406	2.99621573037
+reisner rings	83	2.9923623874
+stanley reisner rings	83	2.9923623874
+reduction number	59	2.97559328287
+commutative noetherian local ring	58	2.97501788183
+gorenstein injective	91	2.97211958452
+ldots x_n	313	2.9624194193
+square free monomial	69	2.95997997871
+free monomial	69	2.95997997871
+semigroup rings	76	2.94791776762
+embedding dimension	178	2.94410257624
+binomial edge ideals	61	2.94147590546
+finite type	1944	2.93714785513
+primary ideals	70	2.9338188513
+obner bases	249	2.9302359754
+gr obner bases	249	2.9302359754
+groebner basis	186	2.9248010414
+class group	1610	2.91927972223
+flat dimension	69	2.91729974137
+closed field	1872	2.88405753577
+graded rings	180	2.87796796997
+determinantal ideals	70	2.87747639262
+homological dimensions	98	2.87676200251
+koszul homology	59	2.87071067943
+algebraically closed field	1584	2.86693370771
+monomial curves	64	2.85456287723
+minimal free resolutions	80	2.83772793901
+local noetherian	70	2.8282329389
+x_1 ldots x_n	234	2.82133716707
+maximal cohen macaulay modules	90	2.81574810997

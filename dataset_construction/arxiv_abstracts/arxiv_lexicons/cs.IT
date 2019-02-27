@@ -1,0 +1,150 @@
+multiple access	1809	5.24200388398
+network coding	1863	5.22068678951
+channel state	1581	5.13037012752
+state information	1600	4.99508242466
+channel state information	1303	4.97754086737
+ldpc codes	1080	4.92753441384
+power allocation	1272	4.9220829127
+sum rate	1148	4.91685279763
+compressed sensing	1799	4.91292190799
+multiple input	1237	4.91179763819
+fading channels	1041	4.87873508729
+capacity region	1087	4.87714684711
+massive mimo	993	4.87518552846
+low complexity	1346	4.86299979294
+interference channel	990	4.83626477797
+mimo systems	1001	4.81957612137
+multiple output	1114	4.80676338244
+input multiple	1039	4.79406016731
+input multiple output	1027	4.78673779011
+base station	1276	4.78134207632
+multiple input multiple	986	4.74888629711
+multiple input multiple output	978	4.74280187694
+channel estimation	915	4.7348089569
+wireless networks	1865	4.72066106873
+achievable rate	935	4.71007855133
+mutual information	2595	4.6479758366
+cyclic codes	688	4.64394941934
+output mimo	889	4.63721393217
+outage probability	874	4.63486609872
+source coding	724	4.63137542078
+energy harvesting	1031	4.61728444305
+parity check	862	4.605472738
+linear codes	863	4.60433625362
+error probability	1178	4.57805206733
+broadcast channel	764	4.57370524695
+polar codes	603	4.5677174477
+interference alignment	639	4.55512553181
+multiple output mimo	776	4.53676924837
+spectral efficiency	777	4.5334402481
+input multiple output mimo	756	4.517734235
+transmit power	809	4.51011605398
+base stations	986	4.47379605891
+cellular networks	1171	4.44667102437
+information theoretic	2298	4.44370547092
+rate region	682	4.44057180707
+channel coding	668	4.43987658508
+cognitive radio	1022	4.43422337966
+coding scheme	735	4.43078987165
+rate distortion	645	4.39245506
+physical layer	782	4.36840901179
+error rate	1676	4.36209219364
+noise ratio	3686	4.36126804229
+resource allocation	1357	4.35823468434
+multi user	763	4.34449220998
+relay channel	549	4.30685192354
+communication systems	761	4.30269286754
+energy efficiency	1160	4.2940240881
+power control	884	4.29306303538
+minimum distance	1001	4.2861540615
+optimization problem	3820	4.28242222446
+information csi	599	4.28096391146
+interference channels	489	4.26740727149
+compressive sensing	861	4.26441673474
+state information csi	580	4.25036564508
+channel state information csi	578	4.24663254281
+discrete memoryless	470	4.23703174571
+multi antenna	516	4.23433555477
+access channel	538	4.23433480997
+density parity	532	4.2095227888
+density parity check	530	4.20760007263
+low density parity	525	4.19746070339
+low density parity check	524	4.19526339181
+half duplex	512	4.18727641527
+multiple access channel	495	4.17772350887
+secrecy capacity	476	4.17453986152
+reed solomon	474	4.15753011583
+decoding algorithm	519	4.14373951924
+outer bound	437	4.13876802239
+belief propagation	934	4.13073376766
+message passing	1432	4.12877572896
+bit error	620	4.12738604142
+gaussian noise	1632	4.12176524557
+wiretap channel	450	4.11290333166
+relay networks	437	4.09686352599
+index coding	394	4.09293096776
+distributed storage	509	4.09126067181
+broadcast channels	412	4.08411083316
+channel model	718	4.06694031653
+rayleigh fading	439	4.06101855324
+frequency division	449	4.05453535621
+sparse signal	564	4.02826381005
+power constraint	446	4.02577586751
+white gaussian	524	4.02439087605
+secrecy rate	386	4.00921609154
+millimeter wave	881	3.99246707814
+decoding complexity	367	3.98969389923
+capacity achieving	370	3.97732579482
+outer bounds	380	3.973907895
+achievable rates	370	3.97316491082
+sparse signals	541	3.96840006043
+proposed scheme	1518	3.96732531912
+coding schemes	425	3.96612770591
+block codes	359	3.9552152669
+single antenna	427	3.95499934088
+fading channel	381	3.95313440788
+source channel	385	3.94986267332
+error correcting	1348	3.94813257717
+block length	411	3.94492646044
+additive white	454	3.94206660005
+additive white gaussian	394	3.93934378175
+white gaussian noise	472	3.92105947036
+computational complexity	3001	3.91227022147
+coding problem	362	3.91102869877
+channel capacity	586	3.9046744374
+ratio snr	632	3.88845393845
+proposed algorithm	2485	3.88769812521
+interference cancellation	357	3.88582537353
+transmit antennas	336	3.88517717401
+high snr	454	3.88473751423
+noise ratio snr	630	3.88330822107
+additive white gaussian noise	373	3.87774843532
+convolutional codes	375	3.87148527278
+wireless communication	565	3.86369160579
+error correction	2254	3.86127953458
+sum capacity	317	3.85542011396
+performance analysis	666	3.85517963877
+secret key	957	3.84809430947
+massive mimo systems	317	3.83302656165
+power constraints	398	3.83268921897
+gaussian interference	308	3.82631025459
+low rank	3069	3.82591998546
+storage systems	467	3.82250460521
+orthogonal frequency	334	3.82077364446
+bit error rate	449	3.81986331228
+spectrum sensing	417	3.81240031017
+list decoding	333	3.81191922714
+maximum likelihood	4565	3.80990021719
+square error	833	3.80650719638
+path loss	455	3.80599932852
+solomon codes	314	3.80590246643
+reed solomon codes	314	3.80590246643
+linear network	385	3.80336567665
+division multiplexing	373	3.79884420674
+optimal power	611	3.79707009833
+orthogonal frequency division	322	3.79184771872
+wireless network	637	3.79161053013
+erasure channel	339	3.7879049421
+relay selection	340	3.7754866824
+spatially coupled	278	3.77424112707
+block fading	268	3.77167596331
